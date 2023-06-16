@@ -9,11 +9,21 @@ const TextContainer = styled.div`
   padding: 12px 6px;
   width: 730px;
   gap: 20px;
+
+  @media (max-width: 765px) {
+    flex-direction: column;
+    width: 80%;
+  }
+
   & > p {
     color: #fff;
     line-height: 22px;
     text-align: justify;
     width: ${({ widthh }) => (widthh ? "50%" : "auto")};
+
+    @media (max-width: 765px) {
+      width: 100%;
+    }
   }
 `;
 

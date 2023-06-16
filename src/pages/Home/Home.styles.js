@@ -12,6 +12,11 @@ export const DuoContainer = styled.div`
   margin-top: 20px;
   display: flex;
   justify-content: space-between;
+  
+  @media (max-width: 765px) {
+    flex-direction: column;
+    gap: 12px;
+  }
 `;
 
 export const HomeFooter = styled.div`

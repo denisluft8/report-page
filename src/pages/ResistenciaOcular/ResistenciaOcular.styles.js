@@ -14,6 +14,7 @@ export const HorizontalContainerRO = styled.div`
   margin-top: 20px;
   display: flex;
   justify-content: space-between;
+  
 `;
 
 export const VerticalContainerRO = styled.div`
@@ -21,4 +22,8 @@ export const VerticalContainerRO = styled.div`
   flex-direction: column;
   justify-content: space-between;
   width: 260px;
+  @media (max-width: 765px) {
+    flex-direction: column;
+    gap: 12px;
+  }
 `;

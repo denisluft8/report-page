@@ -9,9 +9,9 @@ export const PageSection = (props) => {
   return (
     <>
       <PageSectionStyled>
-        <LogoContainer>
+        {/* <LogoContainer>
           <PageLogo src={logo} />
-        </LogoContainer>
+        </LogoContainer> */}
         {props.children}
       </PageSectionStyled>
     </>
