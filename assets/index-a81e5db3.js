@@ -218,7 +218,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   height: 18px;
   margin-top: ${({imgmargintop:e})=>e};
   margin-left: ${({imgmarginleft:e})=>e};
-`,IQ="/report-page/assets/angel-979f527e.svg",sA="/report-page/assets/asterisk-f8b0a657.svg",MQ="/report-page/assets/bull-8a2589cd.svg",lA="/report-page/assets/clock-8deacc5f.svg",LQ="/report-page/assets/drop-539dafea.svg",jQ="/report-page/assets/eagle-b4574201.svg",RQ="/report-page/assets/ejes-9d7e0983.svg",$Q="/report-page/assets/lion-eaf56a14.svg",NQ="/report-page/assets/lettersChart-67062fdf.png",DQ="/report-page/assets/logo-d0cdf6b4.svg",zQ="/report-page/assets/topleft-5d885474.svg",FQ="/report-page/assets/pitch-546474f1.png",BQ="/report-page/assets/profile-5f30ce7c.png",HQ="/report-page/assets/profile-5f30ce7c.png",XQ="/report-page/assets/roll-9960640c.png",xE="/report-page/assets/sphinx-c35b6f51.svg",Yp="/report-page/assets/star-3d400efd.svg",cA="/report-page/assets/target-56abc6d4.svg",WQ="/report-page/assets/up-9511e495.svg",Mx="/report-page/assets/whiteUp-d0188faf.svg",YQ="/report-page/assets/yaw-c4bdb0fe.png",uA=[{name:"90%",value:Te.visionPeriferica.averageAcuraccy.blue1},{name:"Missing Value",value:100-Te.visionPeriferica.averageAcuraccy.blue1}],xu=["#5BE1E3","transparent"],hA=[{name:"19%",value:Te.visionPeriferica.averageAcuraccy.pink1},{name:"Missing Value",value:100-Te.visionPeriferica.averageAcuraccy.pink1}],bu=["#FD7691","transparent"],fA=[{name:"AM",value:30},{name:"Missing Value",value:70}],wu=["#DFE71A","transparent"],dA=[{name:"90%",value:Te.visionPeriferica.averageAcuraccy.blue2},{name:"Missing Value",value:100-Te.visionPeriferica.averageAcuraccy.blue2}],pA=[{name:"23%",value:Te.visionPeriferica.averageAcuraccy.pink2},{name:"Missing Value",value:100-Te.visionPeriferica.averageAcuraccy.pink2}],gA=[{name:"AM",value:30},{name:"Missing Value",value:70}],VQ=()=>F.jsxs(yr,{title:"OVERALL AVERAGE ACCURACY",rounded:!0,children:[F.jsxs(Cd,{width:466,height:250,children:[F.jsx(jt,{data:uA,cx:100,cy:130,startAngle:90,endAngle:-280,innerRadius:45,outerRadius:60,fill:"#8884d8",paddingAngle:0,dataKey:"value",label:!1,children:uA.map((e,t)=>F.jsx(Mr,{fill:xu[t%xu.length],stroke:"transparent"},`cell-${t}`))}),F.jsx(jt,{data:hA,cx:100,cy:130,startAngle:90,endAngle:-280,innerRadius:34,outerRadius:44,fill:"#8884d8",paddingAngle:0,dataKey:"value",label:!1,children:hA.map((e,t)=>F.jsx(Mr,{fill:bu[t%bu.length],stroke:"transparent"},`cell-${t}`))}),F.jsx(jt,{data:fA,cx:100,cy:130,startAngle:150,endAngle:-280,innerRadius:23,outerRadius:33,fill:"#8884d8",paddingAngle:0,dataKey:"value",label:!1,children:fA.map((e,t)=>F.jsx(Mr,{fill:wu[t%wu.length],stroke:"transparent"},`cell-${t}`))}),F.jsx(jt,{data:dA,cx:346,cy:130,startAngle:90,endAngle:-280,innerRadius:45,outerRadius:60,fill:"#8884d8",paddingAngle:0,dataKey:"value",label:!1,children:dA.map((e,t)=>F.jsx(Mr,{fill:xu[t%xu.length],stroke:"transparent"},`cell-${t}`))}),F.jsx(jt,{data:pA,cx:346,cy:130,startAngle:90,endAngle:-280,innerRadius:34,outerRadius:44,fill:"#8884d8",paddingAngle:0,dataKey:"value",label:!1,children:pA.map((e,t)=>F.jsx(Mr,{fill:bu[t%bu.length],stroke:"transparent"},`cell-${t}`))}),F.jsx(jt,{data:gA,cx:346,cy:130,startAngle:150,endAngle:-280,innerRadius:23,outerRadius:33,fill:"#8884d8",paddingAngle:0,dataKey:"value",label:!1,children:gA.map((e,t)=>F.jsx(Mr,{fill:wu[t%wu.length],stroke:"transparent"},`cell-${t}`))})]}),F.jsx(Ua,{margintop:"180px",marginleft:"-120px",skewx:"skewx(20deg)",skewxb:"skewx(-20deg)",content:Te.visionPeriferica.averageAcuraccy.blue1+"%",diheight:"20px",borderleft:"true",borderbottom:"true"}),F.jsx(Za,{src:cA,imgmargintop:"192px",imgmarginleft:"-38px"}),F.jsx(Ua,{margintop:"70px",marginleft:"-120px",content:Te.visionPeriferica.averageAcuraccy.pink1+"%",skewx:"skewx(-20deg)",skewxb:"skewx(20deg)",marginbottomlabel:"40px",diheight:"40px",bordertop:"true",borderleft:"true"}),F.jsx(Za,{src:lA,imgmargintop:"62px",imgmarginleft:"-30px"}),F.jsx(Ua,{margintop:"75px",marginleft:"-350px",content:"AM",skewx:"skewx(20deg)",skewxb:"skewx(-20deg)",marginbottomlabel:"40px",diheight:"40px",borderright:"true",bordertop:"true"}),F.jsx(Za,{src:sA,imgmargintop:"66px",imgmarginleft:"-440px"}),F.jsx(Ua,{margintop:"75px",marginleft:"146px",skewx:"skewx(20deg)",content:"AM",skewxb:"skewx(-20deg)",marginbottomlabel:"40px",diheight:"40px",borderright:"true",bordertop:"true"}),F.jsx(Za,{src:sA,imgmargintop:"66px",imgmarginleft:"60px"}),F.jsx(Ua,{margintop:"70px",marginleft:"370px",content:Te.visionPeriferica.averageAcuraccy.pink2+"%",skewx:"skewx(-20deg)",skewxb:"skewx(20deg)",marginbottomlabel:"40px",diheight:"40px",bordertop:"true",borderleft:"true"}),F.jsx(Za,{src:lA,imgmargintop:"62px",imgmarginleft:"460px"}),F.jsx(Ua,{margintop:"180px",marginleft:"130px",skewx:"skewx(-20deg)",skewxb:"skewx(20deg)",content:Te.visionPeriferica.averageAcuraccy.blue2+"%",diheight:"20px",borderright:"true",borderbottom:"true"}),F.jsx(Za,{src:cA,imgmargintop:"192px",imgmarginleft:"50px"}),F.jsxs(aA,{labelmargintop:"230px",labelmarginleft:"-240px",children:[F.jsxs(Ka,{children:[F.jsx(qa,{color:"#DFE71A"}),"AM"]}),F.jsxs(Ka,{children:[F.jsx(qa,{color:"#FD7691"}),"1.20"]}),F.jsxs(Ka,{children:[F.jsx(qa,{color:"#5BE1E3"}),"29/32"]})]}),F.jsxs(aA,{labelmargintop:"230px",labelmarginleft:"265px",children:[F.jsxs(Ka,{children:[F.jsx(qa,{color:"#DFE71A"}),"AM"]}),F.jsxs(Ka,{children:[F.jsx(qa,{color:"#FD7691"}),"1.20"]}),F.jsxs(Ka,{children:[F.jsx(qa,{color:"#5BE1E3"}),"29/32"]})]}),F.jsx(oA,{titlemargintop:"10px",titlemarginleft:"-240px",children:"LOGICAL"}),F.jsx(oA,{titlemargintop:"10px",titlemarginleft:"250px",children:"CREATIVE"})]}),GQ=pe.div`
+`,IQ="/report-page/assets/angel-979f527e.svg",sA="/report-page/assets/asterisk-f8b0a657.svg",MQ="/report-page/assets/bull-8a2589cd.svg",lA="/report-page/assets/clock-8deacc5f.svg",LQ="/report-page/assets/drop-539dafea.svg",jQ="/report-page/assets/eagle-b4574201.svg",RQ="/report-page/assets/ejes-9d7e0983.svg",$Q="/report-page/assets/lion-eaf56a14.svg",NQ="/report-page/assets/lettersChart-67062fdf.png",DQ="/report-page/assets/topleft-5d885474.svg",zQ="/report-page/assets/pitch-546474f1.png",FQ="/report-page/assets/profile-5f30ce7c.png",BQ="/report-page/assets/profile-5f30ce7c.png",HQ="/report-page/assets/roll-9960640c.png",xE="/report-page/assets/sphinx-c35b6f51.svg",Yp="/report-page/assets/star-3d400efd.svg",cA="/report-page/assets/target-56abc6d4.svg",XQ="/report-page/assets/up-9511e495.svg",Mx="/report-page/assets/whiteUp-d0188faf.svg",WQ="/report-page/assets/yaw-c4bdb0fe.png",uA=[{name:"90%",value:Te.visionPeriferica.averageAcuraccy.blue1},{name:"Missing Value",value:100-Te.visionPeriferica.averageAcuraccy.blue1}],xu=["#5BE1E3","transparent"],hA=[{name:"19%",value:Te.visionPeriferica.averageAcuraccy.pink1},{name:"Missing Value",value:100-Te.visionPeriferica.averageAcuraccy.pink1}],bu=["#FD7691","transparent"],fA=[{name:"AM",value:30},{name:"Missing Value",value:70}],wu=["#DFE71A","transparent"],dA=[{name:"90%",value:Te.visionPeriferica.averageAcuraccy.blue2},{name:"Missing Value",value:100-Te.visionPeriferica.averageAcuraccy.blue2}],pA=[{name:"23%",value:Te.visionPeriferica.averageAcuraccy.pink2},{name:"Missing Value",value:100-Te.visionPeriferica.averageAcuraccy.pink2}],gA=[{name:"AM",value:30},{name:"Missing Value",value:70}],YQ=()=>F.jsxs(yr,{title:"OVERALL AVERAGE ACCURACY",rounded:!0,children:[F.jsxs(Cd,{width:466,height:250,children:[F.jsx(jt,{data:uA,cx:100,cy:130,startAngle:90,endAngle:-280,innerRadius:45,outerRadius:60,fill:"#8884d8",paddingAngle:0,dataKey:"value",label:!1,children:uA.map((e,t)=>F.jsx(Mr,{fill:xu[t%xu.length],stroke:"transparent"},`cell-${t}`))}),F.jsx(jt,{data:hA,cx:100,cy:130,startAngle:90,endAngle:-280,innerRadius:34,outerRadius:44,fill:"#8884d8",paddingAngle:0,dataKey:"value",label:!1,children:hA.map((e,t)=>F.jsx(Mr,{fill:bu[t%bu.length],stroke:"transparent"},`cell-${t}`))}),F.jsx(jt,{data:fA,cx:100,cy:130,startAngle:150,endAngle:-280,innerRadius:23,outerRadius:33,fill:"#8884d8",paddingAngle:0,dataKey:"value",label:!1,children:fA.map((e,t)=>F.jsx(Mr,{fill:wu[t%wu.length],stroke:"transparent"},`cell-${t}`))}),F.jsx(jt,{data:dA,cx:346,cy:130,startAngle:90,endAngle:-280,innerRadius:45,outerRadius:60,fill:"#8884d8",paddingAngle:0,dataKey:"value",label:!1,children:dA.map((e,t)=>F.jsx(Mr,{fill:xu[t%xu.length],stroke:"transparent"},`cell-${t}`))}),F.jsx(jt,{data:pA,cx:346,cy:130,startAngle:90,endAngle:-280,innerRadius:34,outerRadius:44,fill:"#8884d8",paddingAngle:0,dataKey:"value",label:!1,children:pA.map((e,t)=>F.jsx(Mr,{fill:bu[t%bu.length],stroke:"transparent"},`cell-${t}`))}),F.jsx(jt,{data:gA,cx:346,cy:130,startAngle:150,endAngle:-280,innerRadius:23,outerRadius:33,fill:"#8884d8",paddingAngle:0,dataKey:"value",label:!1,children:gA.map((e,t)=>F.jsx(Mr,{fill:wu[t%wu.length],stroke:"transparent"},`cell-${t}`))})]}),F.jsx(Ua,{margintop:"180px",marginleft:"-120px",skewx:"skewx(20deg)",skewxb:"skewx(-20deg)",content:Te.visionPeriferica.averageAcuraccy.blue1+"%",diheight:"20px",borderleft:"true",borderbottom:"true"}),F.jsx(Za,{src:cA,imgmargintop:"192px",imgmarginleft:"-38px"}),F.jsx(Ua,{margintop:"70px",marginleft:"-120px",content:Te.visionPeriferica.averageAcuraccy.pink1+"%",skewx:"skewx(-20deg)",skewxb:"skewx(20deg)",marginbottomlabel:"40px",diheight:"40px",bordertop:"true",borderleft:"true"}),F.jsx(Za,{src:lA,imgmargintop:"62px",imgmarginleft:"-30px"}),F.jsx(Ua,{margintop:"75px",marginleft:"-350px",content:"AM",skewx:"skewx(20deg)",skewxb:"skewx(-20deg)",marginbottomlabel:"40px",diheight:"40px",borderright:"true",bordertop:"true"}),F.jsx(Za,{src:sA,imgmargintop:"66px",imgmarginleft:"-440px"}),F.jsx(Ua,{margintop:"75px",marginleft:"146px",skewx:"skewx(20deg)",content:"AM",skewxb:"skewx(-20deg)",marginbottomlabel:"40px",diheight:"40px",borderright:"true",bordertop:"true"}),F.jsx(Za,{src:sA,imgmargintop:"66px",imgmarginleft:"60px"}),F.jsx(Ua,{margintop:"70px",marginleft:"370px",content:Te.visionPeriferica.averageAcuraccy.pink2+"%",skewx:"skewx(-20deg)",skewxb:"skewx(20deg)",marginbottomlabel:"40px",diheight:"40px",bordertop:"true",borderleft:"true"}),F.jsx(Za,{src:lA,imgmargintop:"62px",imgmarginleft:"460px"}),F.jsx(Ua,{margintop:"180px",marginleft:"130px",skewx:"skewx(-20deg)",skewxb:"skewx(20deg)",content:Te.visionPeriferica.averageAcuraccy.blue2+"%",diheight:"20px",borderright:"true",borderbottom:"true"}),F.jsx(Za,{src:cA,imgmargintop:"192px",imgmarginleft:"50px"}),F.jsxs(aA,{labelmargintop:"230px",labelmarginleft:"-240px",children:[F.jsxs(Ka,{children:[F.jsx(qa,{color:"#DFE71A"}),"AM"]}),F.jsxs(Ka,{children:[F.jsx(qa,{color:"#FD7691"}),"1.20"]}),F.jsxs(Ka,{children:[F.jsx(qa,{color:"#5BE1E3"}),"29/32"]})]}),F.jsxs(aA,{labelmargintop:"230px",labelmarginleft:"265px",children:[F.jsxs(Ka,{children:[F.jsx(qa,{color:"#DFE71A"}),"AM"]}),F.jsxs(Ka,{children:[F.jsx(qa,{color:"#FD7691"}),"1.20"]}),F.jsxs(Ka,{children:[F.jsx(qa,{color:"#5BE1E3"}),"29/32"]})]}),F.jsx(oA,{titlemargintop:"10px",titlemarginleft:"-240px",children:"LOGICAL"}),F.jsx(oA,{titlemargintop:"10px",titlemarginleft:"250px",children:"CREATIVE"})]}),VQ=pe.div`
   background-color: #56506f;
   border-radius: ${({rounded:e})=>e==="true"?"20px":"none"};
   margin-top: ${({rounded:e})=>e==="true"?"10px":"none"};
@@ -226,7 +226,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   flex-direction: column;
   align-items: center;
   padding: 10px;
-`,UQ=pe.h3`
+`,GQ=pe.h3`
   ${e=>e.textalign==="right"?"background-image: linear-gradient(to left, #ffc561, #FCA175, #cd6a83, #4F5056);":"background-image: linear-gradient(to right, #ffc561, #FCA175, #cd6a83, #4F5056);"}
   color: #fff;
   top: 0;
@@ -236,20 +236,20 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   text-indent: 6px;
   padding: 3px 0;
   ${e=>e.textbox==="true"?"width: 50%; padding-right: 20px;":"width: 100%"}
-`,qQ=pe.div`
+`,UQ=pe.div`
   display: flex;
   flex-direction: column;
   align-items: flex-start;
 `,vA=pe.div`
   width: ${({contwidth:e})=>e||"100%"};
-`,yr=e=>F.jsxs(qQ,{contwidth:e.contwidth,children:[F.jsx(vA,{children:F.jsx(UQ,{textbox:e.textBox,textalign:e.titleDirection,children:e.title})}),F.jsx(vA,{children:F.jsx(GQ,{rounded:e.rounded?"true":"false",children:e.children})})]}),mA=[{name:"Excessive defect",value:30},{name:"Moderate defect",value:30},{name:"OPTIMAL",value:10},{name:"",value:18},{name:"Excess",value:12}],yA=["#FF7694","#FFC662","#C8E265","#FFC662"],KQ=pe.img`
+`,yr=e=>F.jsxs(UQ,{contwidth:e.contwidth,children:[F.jsx(vA,{children:F.jsx(GQ,{textbox:e.textBox,textalign:e.titleDirection,children:e.title})}),F.jsx(vA,{children:F.jsx(VQ,{rounded:e.rounded?"true":"false",children:e.children})})]}),mA=[{name:"Excessive defect",value:30},{name:"Moderate defect",value:30},{name:"OPTIMAL",value:10},{name:"",value:18},{name:"Excess",value:12}],yA=["#FF7694","#FFC662","#C8E265","#FFC662"],qQ=pe.img`
   transform-origin: bottom center;
   transform: rotate(${e=>e.rotation||"0"}deg);
   position: absolute;
   width: 30px;
   margin-right: -50px;
   margin-top: 110px;
-`,ZQ=({needleData:e})=>{const[t,r]=ye.useState(0),n=o=>{const s=o*1.8-90;r(Math.round(s))};return ye.useEffect(()=>{n(e)},[e]),F.jsxs(yr,{title:"DECISION MAKING UNDER PRESSURE",titleDirection:"right",children:[F.jsx("p",{style:{color:"#fff",width:"100%",textAlign:"right",fontSize:"13px",marginTop:"-6px"},children:"(Natural hemisphere)"}),F.jsx(Cd,{width:450,height:206,children:F.jsx(jt,{data:mA,cx:242,cy:170,startAngle:180,endAngle:0,innerRadius:60,outerRadius:120,fill:"#8884d8",paddingAngle:0,dataKey:"value",label:o=>o.name,labelLine:!1,children:mA.map((o,s)=>F.jsx(Mr,{fill:yA[s%yA.length],stroke:"transparent"},`cell-${s}`))})}),F.jsx(KQ,{src:LQ,rotation:t,alt:"Image"})]})},jn=pe.input`
+`,KQ=({needleData:e})=>{const[t,r]=ye.useState(0),n=o=>{const s=o*1.8-90;r(Math.round(s))};return ye.useEffect(()=>{n(e)},[e]),F.jsxs(yr,{title:"DECISION MAKING UNDER PRESSURE",titleDirection:"right",children:[F.jsx("p",{style:{color:"#fff",width:"100%",textAlign:"right",fontSize:"13px",marginTop:"-6px"},children:"(Natural hemisphere)"}),F.jsx(Cd,{width:450,height:206,children:F.jsx(jt,{data:mA,cx:242,cy:170,startAngle:180,endAngle:0,innerRadius:60,outerRadius:120,fill:"#8884d8",paddingAngle:0,dataKey:"value",label:o=>o.name,labelLine:!1,children:mA.map((o,s)=>F.jsx(Mr,{fill:yA[s%yA.length],stroke:"transparent"},`cell-${s}`))})}),F.jsx(qQ,{src:LQ,rotation:t,alt:"Image"})]})},jn=pe.input`
   appearance: none;
   -webkit-appearance: none;
   margin: 6px;
@@ -267,7 +267,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     box-shadow: 1px 0px 10px 0px red;
     z-index: 50;
   }
-`,QQ=pe.table`
+`,ZQ=pe.table`
   color: #c8e25f;
   border-collapse: collapse;
   margin: 14px;
@@ -282,7 +282,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
 `,Qa=pe.span`
   font-weight: 100;
   color: transparent;
-`,JQ=pe.div`
+`,QQ=pe.div`
   background: #6f737c;
   height: 170px;
   width: 14px;
@@ -297,7 +297,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   color: #c8e25f;
   align-items: center;
 
-`,eJ=pe.div`
+`,JQ=pe.div`
   align-items: center;
   color: #c8e25f;
   display: flex;
@@ -311,7 +311,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   margin-top: 14px;
   margin-right: 0px;
   margin-left: 10px;
-`,tJ=({radioValue:e})=>F.jsxs(yr,{rounded:!0,title:"BLINK DURATION",children:[F.jsxs(QQ,{children:[F.jsx("thead",{children:F.jsxs("tr",{children:[F.jsx("th",{}),F.jsx("th",{style:{paddingBottom:"8px"},children:F.jsx(Qa,{children:"A"})}),F.jsx("th",{style:{paddingBottom:"8px"},children:F.jsx(Qa,{children:"B"})}),F.jsx("th",{style:{paddingBottom:"8px"},children:F.jsx(Qa,{children:"C"})})]})}),F.jsxs("tbody",{children:[F.jsxs("tr",{children:[F.jsx("th",{style:{border:"none",paddingRight:"20px"},children:F.jsx(Qa,{children:"1"})}),F.jsx("th",{style:{borderTop:"5px solid #6f737c",borderLeft:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"bDA1",checked:e.toUpperCase()==="A1",name:"bDuration",readOnly:!0,value:"I"})}),F.jsx("th",{style:{borderTop:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"bDA2",checked:e.toUpperCase()==="B1",name:"bDuration",readOnly:!0,value:"I"})}),F.jsx("th",{style:{borderTop:"5px solid #6f737c",borderRight:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"BDA3",checked:e.toUpperCase()==="C1",name:"bDuration",readOnly:!0,value:"I"})})]}),F.jsxs("tr",{children:[F.jsx("th",{style:{border:"none",paddingRight:"20px"},children:F.jsx(Qa,{children:"2"})}),F.jsx("th",{style:{borderLeft:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"bDB1",checked:e.toUpperCase()==="A2",name:"bDuration",readOnly:!0,value:"I"})}),F.jsx("th",{children:F.jsx(jn,{type:"radio",id:"bDB2",checked:e.toUpperCase()==="B2",name:"bDuration",readOnly:!0,value:"I"})}),F.jsx("th",{style:{borderRight:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"bDB3",checked:e.toUpperCase()==="C2",name:"bDuration",readOnly:!0,value:"I"})})]}),F.jsxs("tr",{children:[F.jsx("th",{style:{border:"none",paddingRight:"20px"},children:F.jsx(Qa,{children:"3"})}),F.jsx("th",{style:{borderLeft:"5px solid #6f737c",borderBottom:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"cDB1",checked:e.toUpperCase()==="A3",name:"bDuration",readOnly:!0,value:"I"})}),F.jsx("th",{style:{borderBottom:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"cDB2",checked:e.toUpperCase()==="B3",name:"bDuration",readOnly:!0,value:"I"})}),F.jsx("th",{style:{borderRight:"5px solid #6f737c",borderBottom:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"cDB3",checked:e.toUpperCase()==="C3",name:"bDuration",readOnly:!0,value:"I"})})]})]})]}),F.jsxs(JQ,{children:[F.jsx("p",{children:"1"}),F.jsx("p",{children:"2"}),F.jsx("p",{children:"3"})]}),F.jsxs(eJ,{children:[F.jsx("p",{children:"A"}),F.jsx("p",{children:"B"}),F.jsx("p",{children:"C"})]})]}),rJ=pe.div`
+`,eJ=({radioValue:e})=>F.jsxs(yr,{rounded:!0,title:"BLINK DURATION",children:[F.jsxs(ZQ,{children:[F.jsx("thead",{children:F.jsxs("tr",{children:[F.jsx("th",{}),F.jsx("th",{style:{paddingBottom:"8px"},children:F.jsx(Qa,{children:"A"})}),F.jsx("th",{style:{paddingBottom:"8px"},children:F.jsx(Qa,{children:"B"})}),F.jsx("th",{style:{paddingBottom:"8px"},children:F.jsx(Qa,{children:"C"})})]})}),F.jsxs("tbody",{children:[F.jsxs("tr",{children:[F.jsx("th",{style:{border:"none",paddingRight:"20px"},children:F.jsx(Qa,{children:"1"})}),F.jsx("th",{style:{borderTop:"5px solid #6f737c",borderLeft:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"bDA1",checked:e.toUpperCase()==="A1",name:"bDuration",readOnly:!0,value:"I"})}),F.jsx("th",{style:{borderTop:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"bDA2",checked:e.toUpperCase()==="B1",name:"bDuration",readOnly:!0,value:"I"})}),F.jsx("th",{style:{borderTop:"5px solid #6f737c",borderRight:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"BDA3",checked:e.toUpperCase()==="C1",name:"bDuration",readOnly:!0,value:"I"})})]}),F.jsxs("tr",{children:[F.jsx("th",{style:{border:"none",paddingRight:"20px"},children:F.jsx(Qa,{children:"2"})}),F.jsx("th",{style:{borderLeft:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"bDB1",checked:e.toUpperCase()==="A2",name:"bDuration",readOnly:!0,value:"I"})}),F.jsx("th",{children:F.jsx(jn,{type:"radio",id:"bDB2",checked:e.toUpperCase()==="B2",name:"bDuration",readOnly:!0,value:"I"})}),F.jsx("th",{style:{borderRight:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"bDB3",checked:e.toUpperCase()==="C2",name:"bDuration",readOnly:!0,value:"I"})})]}),F.jsxs("tr",{children:[F.jsx("th",{style:{border:"none",paddingRight:"20px"},children:F.jsx(Qa,{children:"3"})}),F.jsx("th",{style:{borderLeft:"5px solid #6f737c",borderBottom:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"cDB1",checked:e.toUpperCase()==="A3",name:"bDuration",readOnly:!0,value:"I"})}),F.jsx("th",{style:{borderBottom:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"cDB2",checked:e.toUpperCase()==="B3",name:"bDuration",readOnly:!0,value:"I"})}),F.jsx("th",{style:{borderRight:"5px solid #6f737c",borderBottom:"5px solid #6f737c"},children:F.jsx(jn,{type:"radio",id:"cDB3",checked:e.toUpperCase()==="C3",name:"bDuration",readOnly:!0,value:"I"})})]})]})]}),F.jsxs(QQ,{children:[F.jsx("p",{children:"1"}),F.jsx("p",{children:"2"}),F.jsx("p",{children:"3"})]}),F.jsxs(JQ,{children:[F.jsx("p",{children:"A"}),F.jsx("p",{children:"B"}),F.jsx("p",{children:"C"})]})]}),tJ=pe.div`
   text-align: center;
   color: #fff;
   position: absolute;
@@ -327,7 +327,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     font-size: 14px;
     font-weight: 500;
   }
-`,bE=({chartValue:e})=>{const t=[{name:"completed",value:e},{name:"toComplete",value:10-e}],r=["#C8E263","#6F737E"];return F.jsxs(yr,{title:"BLINKING BLINDNESS",titleDirection:"right",children:[F.jsx(Cd,{width:295,height:120,children:F.jsx(jt,{data:t,cx:145,cy:90,startAngle:180,endAngle:0,innerRadius:65,outerRadius:90,fill:"#8884d8",paddingAngle:0,dataKey:"value",children:t.map((n,o)=>F.jsx(Mr,{fill:r[o%r.length],stroke:"transparent"},`cell-${o}`))})}),F.jsxs(rJ,{children:[F.jsxs("h3",{children:[e,"/10"]}),F.jsx("h4",{children:"SEC"})]})]})},xA=[{name:"Group D",value:Te.resistenciaOcular.earBlinks.first,color:"#F5C7EC"},{name:"Group A",value:Te.resistenciaOcular.earBlinks.second,color:"#EC3655"},{name:"Group B",value:Te.resistenciaOcular.earBlinks.third,color:"#FA6997"},{name:"Group C",value:Te.resistenciaOcular.earBlinks.fourth,color:"#F99AC8"}],nJ=pe.div`
+`,bE=({chartValue:e})=>{const t=[{name:"completed",value:e},{name:"toComplete",value:10-e}],r=["#C8E263","#6F737E"];return F.jsxs(yr,{title:"BLINKING BLINDNESS",titleDirection:"right",children:[F.jsx(Cd,{width:295,height:120,children:F.jsx(jt,{data:t,cx:145,cy:90,startAngle:180,endAngle:0,innerRadius:65,outerRadius:90,fill:"#8884d8",paddingAngle:0,dataKey:"value",children:t.map((n,o)=>F.jsx(Mr,{fill:r[o%r.length],stroke:"transparent"},`cell-${o}`))})}),F.jsxs(tJ,{children:[F.jsxs("h3",{children:[e,"/10"]}),F.jsx("h4",{children:"SEC"})]})]})},xA=[{name:"Group D",value:Te.resistenciaOcular.earBlinks.first,color:"#F5C7EC"},{name:"Group A",value:Te.resistenciaOcular.earBlinks.second,color:"#EC3655"},{name:"Group B",value:Te.resistenciaOcular.earBlinks.third,color:"#FA6997"},{name:"Group C",value:Te.resistenciaOcular.earBlinks.fourth,color:"#F99AC8"}],rJ=pe.div`
   display: flex;
   justify-content: space-between;
   gap: 10px;
@@ -345,7 +345,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   display: flex;
   gap: 4px;
   align-items: center;
-`,iJ=e=>{const t=Math.PI/180,{cx:r,cy:n,midAngle:o,innerRadius:s,outerRadius:u,startAngle:d,endAngle:g,fill:m,value:S}=e,b=Math.sin(-t*o),k=Math.cos(-t*o),I=r+(u+10)*k,L=n+(u+10)*b,_=r+(u+30)*k,R=n+(u+30)*b,M=_+(k>=0?1:-1)*22,E=R,O=k>=0?"start":"end";return F.jsxs("g",{children:[F.jsx(Qo,{cx:r,cy:n,innerRadius:s,outerRadius:u,startAngle:d,endAngle:g,fill:m}),F.jsx(Qo,{cx:r,cy:n,startAngle:d,endAngle:g,innerRadius:u+6,outerRadius:u+10,fill:m}),F.jsx("path",{d:`M${I},${L}L${_},${R}L${M},${E}`,stroke:"#fff",fill:"none"}),F.jsx("circle",{cx:M,cy:E,r:2,fill:"#FFF",stroke:"none"}),F.jsx("text",{x:M+(k>=0?1:-1)*12,y:E,textAnchor:O,fill:"#fff",children:` ${S}`})]})},aJ=()=>{const[e,t]=ye.useState(0),r=ye.useCallback((n,o)=>{t(o)},[t]);return F.jsxs(yr,{title:"E.A.R BLINKS",children:[F.jsx(Cd,{width:212,height:230,children:F.jsx(jt,{activeIndex:e,activeShape:iJ,data:xA,cx:100,cy:80,startAngle:180,endAngle:-180,innerRadius:40,outerRadius:60,dataKey:"value",onMouseEnter:r,children:xA.map((n,o)=>F.jsx(Mr,{fill:n.color,stroke:"none"},`cell-${o}`))})}),F.jsxs(nJ,{children:[F.jsxs(Au,{children:[F.jsx(Su,{color:"#EC3655"}),"null"]}),F.jsxs(Au,{children:[F.jsx(Su,{color:"#FA6997"}),"low"]}),F.jsxs(Au,{children:[F.jsx(Su,{color:"#F99AC8"}),"medium"]}),F.jsxs(Au,{children:[F.jsx(Su,{color:"#F5C7EC"}),"high"]})]})]})},oJ=pe.div`
+`,nJ=e=>{const t=Math.PI/180,{cx:r,cy:n,midAngle:o,innerRadius:s,outerRadius:u,startAngle:d,endAngle:g,fill:m,value:S}=e,b=Math.sin(-t*o),k=Math.cos(-t*o),I=r+(u+10)*k,L=n+(u+10)*b,_=r+(u+30)*k,R=n+(u+30)*b,M=_+(k>=0?1:-1)*22,E=R,O=k>=0?"start":"end";return F.jsxs("g",{children:[F.jsx(Qo,{cx:r,cy:n,innerRadius:s,outerRadius:u,startAngle:d,endAngle:g,fill:m}),F.jsx(Qo,{cx:r,cy:n,startAngle:d,endAngle:g,innerRadius:u+6,outerRadius:u+10,fill:m}),F.jsx("path",{d:`M${I},${L}L${_},${R}L${M},${E}`,stroke:"#fff",fill:"none"}),F.jsx("circle",{cx:M,cy:E,r:2,fill:"#FFF",stroke:"none"}),F.jsx("text",{x:M+(k>=0?1:-1)*12,y:E,textAnchor:O,fill:"#fff",children:` ${S}`})]})},iJ=()=>{const[e,t]=ye.useState(0),r=ye.useCallback((n,o)=>{t(o)},[t]);return F.jsxs(yr,{title:"E.A.R BLINKS",children:[F.jsx(Cd,{width:212,height:230,children:F.jsx(jt,{activeIndex:e,activeShape:nJ,data:xA,cx:100,cy:80,startAngle:180,endAngle:-180,innerRadius:40,outerRadius:60,dataKey:"value",onMouseEnter:r,children:xA.map((n,o)=>F.jsx(Mr,{fill:n.color,stroke:"none"},`cell-${o}`))})}),F.jsxs(rJ,{children:[F.jsxs(Au,{children:[F.jsx(Su,{color:"#EC3655"}),"null"]}),F.jsxs(Au,{children:[F.jsx(Su,{color:"#FA6997"}),"low"]}),F.jsxs(Au,{children:[F.jsx(Su,{color:"#F99AC8"}),"medium"]}),F.jsxs(Au,{children:[F.jsx(Su,{color:"#F5C7EC"}),"high"]})]})]})},aJ=pe.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -359,7 +359,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   & > img {
     height: 100px;
   }
-`,sJ=()=>F.jsxs(oJ,{children:[F.jsx("h3",{children:"Axes"}),F.jsx("img",{style:{width:"30px",height:"30px",marginTop:"-6px"},src:Mx}),F.jsx("img",{style:{marginTop:"-16px",marginRight:"-4px",marginBottom:"-16px"},src:RQ})]}),Ja=pe.div`
+`,oJ=()=>F.jsxs(aJ,{children:[F.jsx("h3",{children:"Axes"}),F.jsx("img",{style:{width:"30px",height:"30px",marginTop:"-6px"},src:Mx}),F.jsx("img",{style:{marginTop:"-16px",marginRight:"-4px",marginBottom:"-16px"},src:RQ})]}),Ja=pe.div`
   position: absolute;
   text-align: center;
   margin: ${({position:e})=>e};
@@ -369,7 +369,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     font-weight: 590;
     line-height: 40px;
   }
-`,lJ=pe.div`
+`,sJ=pe.div`
   display: flex;
   justify-content: space-between;
   position: absolute;
@@ -389,7 +389,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   gap: 2px;
   margin-right: -10px;
   color: #fff;
-`,cJ=pe.div`
+`,lJ=pe.div`
   position: absolute;
   border: 1px solid #fff;
   padding: 3px;
@@ -397,20 +397,20 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   /* margin-top: 220px; */
   margin-top: ${({positiontop:e})=>e<11?220-e*12:e*10}px;
   margin-left: ${({position:e})=>e}px;
-`,uJ=pe.div`
+`,cJ=pe.div`
   height: 8px;
   width: 8px;
   border: 2px solid transparent;
   background: #fff;
   border-radius: 50%;
-`,hJ=pe.div`
+`,uJ=pe.div`
   color: #fff;
   position: absolute;
   margin-top: 100px;
   margin-left: 600px;
   width: 120px;
   text-align: center;
-`,fJ=e=>e<16?-622+e*57:-614+e*57,dJ=[{name:"",pv:20,color:"#9E8462"},{name:"",pv:25,color:"#746861"},{name:"",pv:30,color:"#B99762"},{name:"",pv:40,color:"#D9AB61"},{name:"",pv:46,color:"#E8B45E"},{name:"",pv:56,color:"#FFC563"},{name:"",pv:60,color:"#9C5F76"},{name:"",pv:65,color:"#AC627D"},{name:"",pv:70,color:"#B86482"},{name:"",pv:70,color:"#D86B87"},{name:"",pv:75,color:"#E56E8E"},{name:"",pv:72,color:"#FE7396"},{name:"",pv:65,color:"#634B94"},{name:"",pv:60,color:"#7C46CD"},{name:"",pv:55,color:"#9B3FFF"},{name:"",pv:50,color:"#368495"},{name:"",pv:45,color:"#1CC2C8"},{name:"",pv:35,color:"#01FEFC"},{name:"",pv:42,color:"#E2FF00"},{name:"",pv:30,color:"#E2FF00"},{name:"",pv:25,color:"#E2FF00"}],pJ=({x:e,y:t,width:r,height:n,color:o})=>F.jsx("rect",{x:e,y:t,width:r,height:n,fill:o}),gJ=300,vJ=({positionCircle:e,ranking:t})=>{const[r,n]=ye.useState(0);return ye.useEffect(()=>{n(fJ(e))},[e]),F.jsxs(yr,{title:"ELO DISTRIBUTION",textBox:"true",children:[F.jsx(oW,{width:"90%",height:gJ,children:F.jsxs(TQ,{data:dJ,margin:{top:100,right:50,bottom:46,left:0},cx:100,cy:80,children:[F.jsx(Ad,{dataKey:"name",hide:!0}),F.jsx(Is,{dataKey:"pv",barSize:20,shape:F.jsx(pJ,{}),isAnimationActive:!1})]})}),F.jsx(cJ,{className:"circle",position:r,positiontop:e,children:F.jsx(uJ,{style:{}})}),F.jsxs(Ja,{position:"100px 0px 0px -580px",children:[F.jsx(la,{ranking:50,width:55,innerWidth:50,height:65,innerHeight:59,animalHeight:35,starHeight:16,starBottom:-6}),F.jsx("span",{children:"BGN"})]}),F.jsxs(Ja,{position:"59px 0px 0px -400px",children:[F.jsx(la,{ranking:80,width:55,innerWidth:50,height:65,innerHeight:59,animalHeight:35,animalmarginbottom:-16,starHeight:16,starBottom:0}),F.jsx("span",{children:"AM"})]}),F.jsxs(Ja,{position:"20px 0px 0px -220px",children:[F.jsx(la,{ranking:120,width:55,innerWidth:50,height:65,innerHeight:59,animalHeight:35,starHeight:16,starBottom:-6}),F.jsx("span",{children:"AR"})]}),F.jsxs(Ja,{position:"0px 0px 0px -50px",children:[F.jsx(la,{ranking:170,animalmarginbottom:-8,width:55,innerWidth:50,height:65,innerHeight:59,animalHeight:35,starHeight:16,starBottom:-6}),F.jsx("span",{children:"PRO"})]}),F.jsxs(Ja,{position:"20px 0px 0px 125px",children:[F.jsx(la,{ranking:230,width:55,innerWidth:50,height:65,innerHeight:59,animalHeight:35,starHeight:16,starBottom:-6}),F.jsx("span",{children:"AA"})]}),F.jsxs(Ja,{position:"50px 0px 0px 290px",children:[F.jsx(la,{ranking:260,width:55,innerWidth:50,height:65,innerHeight:59,animalHeight:35,starHeight:16,starBottom:-6}),F.jsx("span",{children:"AAA"})]}),F.jsxs(lJ,{children:[F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"0"})]}),F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"70"})]}),F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"116"})]}),F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"165"})]}),F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"190"})]}),F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"250"})]}),F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"299"})]}),F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"+500"})]})]}),F.jsxs(hJ,{children:[F.jsx("img",{src:xE}),F.jsx("h3",{children:"TOP 1%"})]})]})},mJ=pe.div`
+`,hJ=e=>e<16?-622+e*57:-614+e*57,fJ=[{name:"",pv:20,color:"#9E8462"},{name:"",pv:25,color:"#746861"},{name:"",pv:30,color:"#B99762"},{name:"",pv:40,color:"#D9AB61"},{name:"",pv:46,color:"#E8B45E"},{name:"",pv:56,color:"#FFC563"},{name:"",pv:60,color:"#9C5F76"},{name:"",pv:65,color:"#AC627D"},{name:"",pv:70,color:"#B86482"},{name:"",pv:70,color:"#D86B87"},{name:"",pv:75,color:"#E56E8E"},{name:"",pv:72,color:"#FE7396"},{name:"",pv:65,color:"#634B94"},{name:"",pv:60,color:"#7C46CD"},{name:"",pv:55,color:"#9B3FFF"},{name:"",pv:50,color:"#368495"},{name:"",pv:45,color:"#1CC2C8"},{name:"",pv:35,color:"#01FEFC"},{name:"",pv:42,color:"#E2FF00"},{name:"",pv:30,color:"#E2FF00"},{name:"",pv:25,color:"#E2FF00"}],dJ=({x:e,y:t,width:r,height:n,color:o})=>F.jsx("rect",{x:e,y:t,width:r,height:n,fill:o}),pJ=300,gJ=({positionCircle:e,ranking:t})=>{const[r,n]=ye.useState(0);return ye.useEffect(()=>{n(hJ(e))},[e]),F.jsxs(yr,{title:"ELO DISTRIBUTION",textBox:"true",children:[F.jsx(oW,{width:"90%",height:pJ,children:F.jsxs(TQ,{data:fJ,margin:{top:100,right:50,bottom:46,left:0},cx:100,cy:80,children:[F.jsx(Ad,{dataKey:"name",hide:!0}),F.jsx(Is,{dataKey:"pv",barSize:20,shape:F.jsx(dJ,{}),isAnimationActive:!1})]})}),F.jsx(lJ,{className:"circle",position:r,positiontop:e,children:F.jsx(cJ,{style:{}})}),F.jsxs(Ja,{position:"100px 0px 0px -580px",children:[F.jsx(la,{ranking:50,width:55,innerWidth:50,height:65,innerHeight:59,animalHeight:35,starHeight:16,starBottom:-6}),F.jsx("span",{children:"BGN"})]}),F.jsxs(Ja,{position:"59px 0px 0px -400px",children:[F.jsx(la,{ranking:80,width:55,innerWidth:50,height:65,innerHeight:59,animalHeight:35,animalmarginbottom:-16,starHeight:16,starBottom:0}),F.jsx("span",{children:"AM"})]}),F.jsxs(Ja,{position:"20px 0px 0px -220px",children:[F.jsx(la,{ranking:120,width:55,innerWidth:50,height:65,innerHeight:59,animalHeight:35,starHeight:16,starBottom:-6}),F.jsx("span",{children:"AR"})]}),F.jsxs(Ja,{position:"0px 0px 0px -50px",children:[F.jsx(la,{ranking:170,animalmarginbottom:-8,width:55,innerWidth:50,height:65,innerHeight:59,animalHeight:35,starHeight:16,starBottom:-6}),F.jsx("span",{children:"PRO"})]}),F.jsxs(Ja,{position:"20px 0px 0px 125px",children:[F.jsx(la,{ranking:230,width:55,innerWidth:50,height:65,innerHeight:59,animalHeight:35,starHeight:16,starBottom:-6}),F.jsx("span",{children:"AA"})]}),F.jsxs(Ja,{position:"50px 0px 0px 290px",children:[F.jsx(la,{ranking:260,width:55,innerWidth:50,height:65,innerHeight:59,animalHeight:35,starHeight:16,starBottom:-6}),F.jsx("span",{children:"AAA"})]}),F.jsxs(sJ,{children:[F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"0"})]}),F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"70"})]}),F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"116"})]}),F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"165"})]}),F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"190"})]}),F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"250"})]}),F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"299"})]}),F.jsxs(li,{children:[F.jsx(mt,{}),F.jsx(mt,{}),F.jsx(mt,{}),F.jsx("span",{children:"+500"})]})]}),F.jsxs(uJ,{children:[F.jsx("img",{src:xE}),F.jsx("h3",{children:"TOP 1%"})]})]})},vJ=pe.div`
   align-items: center;
   display: flex;
   color: #fff;
@@ -428,18 +428,18 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   & > img {
     height: 24px;
   }
-`,yJ=e=>F.jsxs(yr,{title:"RANKING ANIMAL",children:[F.jsx(la,{ranking:e.ranking,starmarginleft:30}),F.jsxs(mJ,{children:[F.jsxs("h3",{children:[e.ranking,F.jsx("span",{children:"/"})]}),F.jsx("img",{src:WQ}),F.jsxs("p",{children:["Ranking ",F.jsx("br",{})," actual"]})]})]}),xJ=pe.div`
+`,mJ=e=>F.jsxs(yr,{title:"RANKING ANIMAL",children:[F.jsx(la,{ranking:e.ranking,starmarginleft:30}),F.jsxs(vJ,{children:[F.jsxs("h3",{children:[e.ranking,F.jsx("span",{children:"/"})]}),F.jsx("img",{src:XQ}),F.jsxs("p",{children:["Ranking ",F.jsx("br",{})," actual"]})]})]}),yJ=pe.div`
   flex-grow: 1;
   height: 18px;
   width: 235px;
   background-color: #fff;
   position: relative;
   margin-bottom: 16px;
-`,bJ=pe.span`
+`,xJ=pe.span`
   margin-right: 10px;
   /* width: 160px; */
   color: #fff;
-`,wJ=pe.div`
+`,bJ=pe.div`
   height: 100%;
   background-color: ${e=>e.barcolor||"#ffc661"};
   width: ${e=>`${e.progress}%`};
@@ -448,7 +448,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   justify-content: center;
   color: white;
   position: relative;
-`,SJ=pe.span`
+`,wJ=pe.span`
   position: absolute;
   background-color: ${e=>e.barcolor||"#ffc661"};
   height: 25px;
@@ -457,7 +457,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   top: -4px;
   left: ${e=>e.value}%;
   transform: translateX(-50%);
-`,AJ=pe.div`
+`,SJ=pe.div`
   display: flex;
   width: 100%;
   justify-content: space-between;
@@ -467,26 +467,26 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   & > p {
     color: ${e=>e.barcolor||"#fff"};
   }
-`,Lx=({barColor:e,subtitle:t,progress:r})=>F.jsxs(F.Fragment,{children:[F.jsxs(AJ,{barcolor:e,children:[F.jsx(bJ,{children:t}),F.jsxs("p",{children:[r,"%"]})]}),F.jsxs(xJ,{children:[F.jsx(wJ,{barcolor:e,progress:r}),F.jsx(SJ,{barcolor:e,value:r})]})]}),kJ=pe.div`
+`,Lx=({barColor:e,subtitle:t,progress:r})=>F.jsxs(F.Fragment,{children:[F.jsxs(SJ,{barcolor:e,children:[F.jsx(xJ,{children:t}),F.jsxs("p",{children:[r,"%"]})]}),F.jsxs(yJ,{children:[F.jsx(bJ,{barcolor:e,progress:r}),F.jsx(wJ,{barcolor:e,value:r})]})]}),AJ=pe.div`
   display: flex;
   flex-direction: column-reverse;
   width: 18px;
-`,CJ=pe.div`
+`,kJ=pe.div`
   width: 100%;
   height: 2px;
   background-color: ${({color:e})=>e||"white"};
   margin: 1px;
-`,eo=({value:e,color:t})=>{const r=Array.from({length:20}).map((n,o)=>{const s=o<20-Math.ceil(e/5)?t:"white";return F.jsx(CJ,{color:s},o)});return F.jsx(kJ,{children:r})},Zs=pe.div`
+`,eo=({value:e,color:t})=>{const r=Array.from({length:20}).map((n,o)=>{const s=o<20-Math.ceil(e/5)?t:"white";return F.jsx(kJ,{color:s},o)});return F.jsx(AJ,{children:r})},Zs=pe.div`
   background: #504c67;
   padding: 16px;
   border-radius: 16px;
 `,Vp=pe.div`
   display: flex;
   gap: 6px;
-`,PJ=pe.div`
+`,CJ=pe.div`
   display: flex;
   justify-content: space-between;
-`,OJ=pe.div`
+`,PJ=pe.div`
   display: flex;
   justify-content: space-between;
   margin-top: 18px;
@@ -525,25 +525,25 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   align-items: center;
   flex-direction: column;
   clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-`,EJ=pe.div`
+`,OJ=pe.div`
   display: flex;
   justify-content: space-between;
   margin-bottom: 12px;
   margin-top: 12px;
-`,_J=pe.div`
+`,EJ=pe.div`
   display: flex;
   justify-content: space-between;
   padding: 0px 6px;
   color: grey;
   margin-bottom: 12px;
-`,TJ=pe.div`
+`,_J=pe.div`
   display: flex;
   gap: 12px;
 `,bA=pe.div`
   display: flex;
   flex-direction: column;
   gap: 12px;
-`,wE=({progressNivel:e,progress:t,stackValue1:r,stackValue2:n,stackValue3:o,stackValue4:s,stackValue5:u,stackValue6:d,stackColor1:g,stackColor2:m,stackColor3:S,stackColor4:b,stackColor5:k,stackColor6:I})=>{const L=_=>{if(_==="PRO")return"#FFC65E";if(_==="AR")return"#5EE2E7";if(_==="AM")return"#F57699";if(_==="BEG")return"#9044f7"};return F.jsx(yr,{textBox:"true",title:"HEAD COMPENSATION",children:F.jsxs(TJ,{children:[F.jsxs(bA,{children:[F.jsx(Zs,{children:F.jsx(Lx,{barColor:"#F97696",subtitle:`LEVEL ${e}`,progress:t})}),F.jsxs(Zs,{children:[F.jsxs(EJ,{children:[F.jsx(Up,{hexcolor:"#41A44C",rotate:"45deg",children:F.jsx(qp,{children:F.jsx(Gp,{rotate:"-45deg",src:YQ})})}),F.jsx(Up,{hexcolor:"#ff7494",children:F.jsx(qp,{children:F.jsx(Gp,{src:FQ})})}),F.jsx(Up,{hexcolor:"#9044f7",rotate:"10deg",children:F.jsx(qp,{children:F.jsx(Gp,{src:XQ,rotate:"-10deg"})})})]}),F.jsxs(_J,{children:[F.jsx("span",{children:"Yaw"}),F.jsx("span",{children:"Pitch"}),F.jsx("span",{children:"Roll"})]}),F.jsxs(PJ,{children:[F.jsxs(Vp,{children:[F.jsx(eo,{value:100-r,color:L(g.toUpperCase())}),F.jsx(eo,{value:100-n,color:L(m.toUpperCase())})]}),F.jsxs(Vp,{children:[F.jsx(eo,{value:100-o,color:L(S.toUpperCase())}),F.jsx(eo,{value:100-s,color:L(b.toUpperCase())})]}),F.jsxs(Vp,{children:[F.jsx(eo,{value:100-u,color:L(k.toUpperCase())}),F.jsx(eo,{value:100-d,color:L(I.toUpperCase())})]})]}),F.jsxs(OJ,{children:[F.jsxs(ki,{children:[F.jsx(Ai,{color:"#FFC665"}),"PRO"]}),F.jsxs(ki,{children:[F.jsx(Ai,{color:"#5EE2E7"}),"AR"]}),F.jsxs(ki,{children:[F.jsx(Ai,{color:"#F57699"}),"AM"]}),F.jsxs(ki,{children:[F.jsx(Ai,{color:"#9044F7"}),"BEG"]})]})]})]}),F.jsx(Zs,{children:F.jsx(cee,{})}),F.jsxs(bA,{children:[F.jsx(Zs,{children:F.jsx(sJ,{})}),F.jsx(Zs,{children:F.jsx(NJ,{})})]})]})})},IJ=pe.div`
+`,wE=({progressNivel:e,progress:t,stackValue1:r,stackValue2:n,stackValue3:o,stackValue4:s,stackValue5:u,stackValue6:d,stackColor1:g,stackColor2:m,stackColor3:S,stackColor4:b,stackColor5:k,stackColor6:I})=>{const L=_=>{if(_==="PRO")return"#FFC65E";if(_==="AR")return"#5EE2E7";if(_==="AM")return"#F57699";if(_==="BEG")return"#9044f7"};return F.jsx(yr,{textBox:"true",title:"HEAD COMPENSATION",children:F.jsxs(_J,{children:[F.jsxs(bA,{children:[F.jsx(Zs,{children:F.jsx(Lx,{barColor:"#F97696",subtitle:`LEVEL ${e}`,progress:t})}),F.jsxs(Zs,{children:[F.jsxs(OJ,{children:[F.jsx(Up,{hexcolor:"#41A44C",rotate:"45deg",children:F.jsx(qp,{children:F.jsx(Gp,{rotate:"-45deg",src:WQ})})}),F.jsx(Up,{hexcolor:"#ff7494",children:F.jsx(qp,{children:F.jsx(Gp,{src:zQ})})}),F.jsx(Up,{hexcolor:"#9044f7",rotate:"10deg",children:F.jsx(qp,{children:F.jsx(Gp,{src:HQ,rotate:"-10deg"})})})]}),F.jsxs(EJ,{children:[F.jsx("span",{children:"Yaw"}),F.jsx("span",{children:"Pitch"}),F.jsx("span",{children:"Roll"})]}),F.jsxs(CJ,{children:[F.jsxs(Vp,{children:[F.jsx(eo,{value:100-r,color:L(g.toUpperCase())}),F.jsx(eo,{value:100-n,color:L(m.toUpperCase())})]}),F.jsxs(Vp,{children:[F.jsx(eo,{value:100-o,color:L(S.toUpperCase())}),F.jsx(eo,{value:100-s,color:L(b.toUpperCase())})]}),F.jsxs(Vp,{children:[F.jsx(eo,{value:100-u,color:L(k.toUpperCase())}),F.jsx(eo,{value:100-d,color:L(I.toUpperCase())})]})]}),F.jsxs(PJ,{children:[F.jsxs(ki,{children:[F.jsx(Ai,{color:"#FFC665"}),"PRO"]}),F.jsxs(ki,{children:[F.jsx(Ai,{color:"#5EE2E7"}),"AR"]}),F.jsxs(ki,{children:[F.jsx(Ai,{color:"#F57699"}),"AM"]}),F.jsxs(ki,{children:[F.jsx(Ai,{color:"#9044F7"}),"BEG"]})]})]})]}),F.jsx(Zs,{children:F.jsx(oee,{})}),F.jsxs(bA,{children:[F.jsx(Zs,{children:F.jsx(oJ,{})}),F.jsx(Zs,{children:F.jsx($J,{})})]})]})})},TJ=pe.div`
   color: #fff;
   margin-bottom: 20px;
 
@@ -567,7 +567,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     font-size: 18px;
     line-height: 24px;
   }
-`,jx=({upTitle:e,title:t,text:r})=>F.jsx(F.Fragment,{children:F.jsxs(IJ,{children:[F.jsx("h3",{children:e}),F.jsx("h2",{children:t}),F.jsx("p",{children:r})]})}),MJ=pe.div`
+`,jx=({upTitle:e,title:t,text:r})=>F.jsx(F.Fragment,{children:F.jsxs(TJ,{children:[F.jsx("h3",{children:e}),F.jsx("h2",{children:t}),F.jsx("p",{children:r})]})}),IJ=pe.div`
   display: flex;
   width: 180px;
   flex-direction: column;
@@ -586,28 +586,28 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     margin-top: -10px;
     margin-bottom: -8px;
   }
-`,LJ=pe.div`
+`,MJ=pe.div`
   border: 6px solid #9044f7;
   height: 85px;
   width: 80px;
   display: flex;
   justify-content: center;
   align-items: center;
-`,jJ=pe.div`
+`,LJ=pe.div`
   border: 6px solid #f57699;
   height: 65px;
   width: 60px;
   display: flex;
   justify-content: center;
   align-items: center;
-`,RJ=pe.div`
+`,jJ=pe.div`
   border: 6px solid #5ee2e7;
   height: 45px;
   width: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
-`,$J=pe.div`
+`,RJ=pe.div`
   border: 2px solid #ffc665;
   height: 25px;
   width: 20px;
@@ -621,22 +621,30 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   margin-right: -30px;
   display: grid;
   grid-template-columns: 2fr 2fr;
-`,NJ=()=>F.jsxs(MJ,{children:[F.jsx("h3",{children:"Levels of precision"}),F.jsx("img",{src:Mx}),F.jsx(LJ,{children:F.jsx(jJ,{children:F.jsx(RJ,{children:F.jsx($J,{})})})}),F.jsxs(wA,{children:[F.jsxs(ki,{labelweigth:"600",color:"#9044F7",children:[F.jsx(Ai,{color:"#9044F7"}),"BEG"]}),F.jsxs(ki,{labelweigth:"600",color:"#5EE2E7",children:[F.jsx(Ai,{color:"#5EE2E7"}),"AR"]})]}),F.jsxs(wA,{children:[F.jsxs(ki,{labelweigth:"600",color:"#F57699",children:[F.jsx(Ai,{color:"#F57699"}),"AM"]}),F.jsxs(ki,{labelweigth:"600",color:"#FFC665",children:[F.jsx(Ai,{color:"#FFC665"}),"PRO"]})]})]}),DJ=pe.section`
+`,$J=()=>F.jsxs(IJ,{children:[F.jsx("h3",{children:"Levels of precision"}),F.jsx("img",{src:Mx}),F.jsx(MJ,{children:F.jsx(LJ,{children:F.jsx(jJ,{children:F.jsx(RJ,{})})})}),F.jsxs(wA,{children:[F.jsxs(ki,{labelweigth:"600",color:"#9044F7",children:[F.jsx(Ai,{color:"#9044F7"}),"BEG"]}),F.jsxs(ki,{labelweigth:"600",color:"#5EE2E7",children:[F.jsx(Ai,{color:"#5EE2E7"}),"AR"]})]}),F.jsxs(wA,{children:[F.jsxs(ki,{labelweigth:"600",color:"#F57699",children:[F.jsx(Ai,{color:"#F57699"}),"AM"]}),F.jsxs(ki,{labelweigth:"600",color:"#FFC665",children:[F.jsx(Ai,{color:"#FFC665"}),"PRO"]})]})]}),NJ=pe.section`
   background-image: linear-gradient(#323a46, #7b40ca);
   min-height: 100%;
-  width: 100%;
+  min-width: 100%;
+  width: fit-content;
   display: flex;
   justify-content: center;
   page-break-before: always;
   page-break-after: always;
-`,zJ=pe.div`
+`;pe.div`
   width: 830px;
   position: absolute;
   text-align: end;
-`,FJ=pe.img`
+
+  @media (max-width: 900px) {
+    width: 100%;
+  }
+`;pe.img`
   height: 60px;
   margin-top: 40px;
-`,Pd=e=>F.jsx(F.Fragment,{children:F.jsxs(DJ,{children:[F.jsx(zJ,{children:F.jsx(FJ,{src:DQ})}),e.children]})}),BJ=pe.div`
+  @media (max-width: 900px) {
+    margin-right: 40px;
+  }
+`;const Pd=e=>F.jsx(F.Fragment,{children:F.jsx(NJ,{children:e.children})}),DJ=pe.div`
   width: ${({outerwidth:e})=>e||"135"}px;
   height: ${({outerheight:e})=>e||"150"}px;
 
@@ -646,7 +654,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   justify-content: center;
   align-items: center;
   clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-`,HJ=pe.div`
+`,zJ=pe.div`
   width: ${({innerwidth:e})=>e||"120"}px;
   height: ${({innerheight:e})=>e||"130"}px;
   background-color: #6f737d;
@@ -657,14 +665,14 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
 `,Kp=pe.img`
   height: ${({starheight:e})=>e||"30"}px;
   margin-bottom: ${({starbottom:e})=>e||"-12"}px;
-`,XJ=pe.img`
+`,FJ=pe.img`
   height: ${({animalheight:e})=>e||"80"}px;
   margin-bottom: ${({animalmarginbottom:e})=>e||"0"}px;
-`,WJ=pe.div`
+`,BJ=pe.div`
   margin-left: ${({starmarginleft:e})=>e||"0"}px;
 
   margin-bottom: 6px;
-`,la=({width:e,animalmarginbottom:t,height:r,innerWidth:n,innerHeight:o,animalHeight:s,ranking:u,starHeight:d,starmarginleft:g,starBottom:m})=>{ye.useEffect(()=>{u<=116?b("#FFC563"):u>116&&u<=190?b("#FE7396"):u>190&&u<=250?b("#9B3FFF"):u>250&&u<=299?b("#01FEFC"):u>299&&b("#E2FF00")},[u]);const[S,b]=ye.useState("#fff"),k=I=>I<=116?IQ:I>116&&I<=190?MQ:I>190&&I<=250?$Q:I>250&&I<=299?jQ:I>299?xE:"";return F.jsx(BJ,{outerwidth:e,outerheight:r,bgcolor:S,children:F.jsxs(HJ,{innerwidth:n,innerheight:o,children:[F.jsx(XJ,{src:k(u),animalheight:s,animalmarginbottom:t}),u>70&&u<=116||u>165&&u<=190?F.jsxs(WJ,{starmarginleft:g,children:[F.jsx(Kp,{src:Yp,starheight:d,starbottom:m}),F.jsx(Kp,{src:Yp,starheight:d,starbottom:m})]}):u>190?F.jsx(F.Fragment,{}):F.jsx(Kp,{src:Yp,starheight:d,starbottom:m})]})})},Rn=pe.div`
+`,la=({width:e,animalmarginbottom:t,height:r,innerWidth:n,innerHeight:o,animalHeight:s,ranking:u,starHeight:d,starmarginleft:g,starBottom:m})=>{ye.useEffect(()=>{u<=116?b("#FFC563"):u>116&&u<=190?b("#FE7396"):u>190&&u<=250?b("#9B3FFF"):u>250&&u<=299?b("#01FEFC"):u>299&&b("#E2FF00")},[u]);const[S,b]=ye.useState("#fff"),k=I=>I<=116?IQ:I>116&&I<=190?MQ:I>190&&I<=250?$Q:I>250&&I<=299?jQ:I>299?xE:"";return F.jsx(DJ,{outerwidth:e,outerheight:r,bgcolor:S,children:F.jsxs(zJ,{innerwidth:n,innerheight:o,children:[F.jsx(FJ,{src:k(u),animalheight:s,animalmarginbottom:t}),u>70&&u<=116||u>165&&u<=190?F.jsxs(BJ,{starmarginleft:g,children:[F.jsx(Kp,{src:Yp,starheight:d,starbottom:m}),F.jsx(Kp,{src:Yp,starheight:d,starbottom:m})]}):u>190?F.jsx(F.Fragment,{}):F.jsx(Kp,{src:Yp,starheight:d,starbottom:m})]})})},Rn=pe.div`
   height: 18px;
   width: 235px;
   background-color: #6e737f;
@@ -696,7 +704,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   background-color: #989898d9;
   margin-top: 6px;
   margin-left: ${({marginhl:e})=>e};
-`,YJ=({data:e})=>{const t=r=>r<34?"#F96A97":r>65?"#C8E263":"#ffc661";return F.jsxs(yr,{title:"RECOMMENDATIONS",titleDirection:"right",rounded:!0,children:[F.jsxs(Nn,{children:[F.jsx("span",{children:"Technical visual anxiety"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.visualTecnica,barcolor:t(e.visualTecnica)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Tactical visual anxiety"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.visualTactica,barcolor:t(e.visualTactica)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Letter/symbol identification"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.letraSimbolo,barcolor:t(e.letraSimbolo)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Zone and time fixation"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.zonaYTiempo,barcolor:t(e.zonaYTiempo)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Yaw"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.yaw,barcolor:t(e.yaw)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Pitch"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.pitch,barcolor:t(e.pitch)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Roll"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.roll,barcolor:t(e.roll)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Left-to-right exercises"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.izqADer,barcolor:t(e.izqADer)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Right-to-left exercises"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.derAIzq,barcolor:t(e.derAIzq)})})]}),F.jsx(SA,{marginhl:"108px"}),F.jsx(SA,{marginhl:"260px"})]})};var SE={},Tm={exports:{}};/*!
+`,HJ=({data:e})=>{const t=r=>r<34?"#F96A97":r>65?"#C8E263":"#ffc661";return F.jsxs(yr,{title:"RECOMMENDATIONS",titleDirection:"right",rounded:!0,children:[F.jsxs(Nn,{children:[F.jsx("span",{children:"Technical visual anxiety"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.visualTecnica,barcolor:t(e.visualTecnica)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Tactical visual anxiety"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.visualTactica,barcolor:t(e.visualTactica)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Letter/symbol identification"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.letraSimbolo,barcolor:t(e.letraSimbolo)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Zone and time fixation"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.zonaYTiempo,barcolor:t(e.zonaYTiempo)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Yaw"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.yaw,barcolor:t(e.yaw)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Pitch"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.pitch,barcolor:t(e.pitch)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Roll"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.roll,barcolor:t(e.roll)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Left-to-right exercises"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.izqADer,barcolor:t(e.izqADer)})})]}),F.jsxs(Nn,{children:[F.jsx("span",{children:"Right-to-left exercises"}),F.jsx(Rn,{children:F.jsx($n,{progress:e.derAIzq,barcolor:t(e.derAIzq)})})]}),F.jsx(SA,{marginhl:"108px"}),F.jsx(SA,{marginhl:"260px"})]})};var SE={},Tm={exports:{}};/*!
  * ApexCharts v3.40.0
  * (c) 2018-2023 ApexCharts
  * Released under the MIT License.
@@ -1380,7 +1388,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   width: 200%;
   height: 200%
 }
-`,f?h.prepend(i.css):p.head.appendChild(i.css))}var x=i.create(i.w.config.series,{});if(!x)return a(i);i.mount(x).then(function(){typeof i.w.config.chart.events.mounted=="function"&&i.w.config.chart.events.mounted(i,i.w),i.events.fireEvent("mounted",[i,i.w]),a(x)}).catch(function(w){l(w)})}else l(new Error("Element not found"))})}},{key:"create",value:function(i,a){var l=this.w;new Vx(this).initModules();var c=this.w.globals;if(c.noData=!1,c.animationEnded=!1,this.responsive.checkResponsiveConfig(a),l.config.xaxis.convertedCatToNumeric&&new ae(l.config).convertCatToNumericXaxis(l.config,this.ctx),this.el===null||(this.core.setupElements(),l.config.chart.type==="treemap"&&(l.config.grid.show=!1,l.config.yaxis[0].show=!1),c.svgWidth===0))return c.animationEnded=!0,null;var h=B.checkComboSeries(i);c.comboCharts=h.comboCharts,c.comboBarCount=h.comboBarCount;var f=i.every(function(w){return w.data&&w.data.length===0});(i.length===0||f)&&this.series.handleNoData(),this.events.setupEventHandlers(),this.data.parseData(i),this.theme.init(),new Oe(this).setGlobalMarkerSize(),this.formatters.setLabelFormatters(),this.titleSubtitle.draw(),c.noData&&c.collapsedSeries.length!==c.series.length&&!l.config.legend.showForSingleSeries||this.legend.init(),this.series.hasAllSeriesEqualX(),c.axisCharts&&(this.core.coreCalculations(),l.config.xaxis.type!=="category"&&this.formatters.setLabelFormatters(),this.ctx.toolbar.minX=l.globals.minX,this.ctx.toolbar.maxX=l.globals.maxX),this.formatters.heatmapLabelFormatters(),new B(this).getLargestMarkerSize(),this.dimensions.plotCoords();var p=this.core.xySettings();this.grid.createGridMask();var v=this.core.plotChartType(i,p),x=new Be(this);return x.bringForward(),l.config.dataLabels.background.enabled&&x.dataLabelsBackground(),this.core.shiftGraphPosition(),{elGraph:v,xyRatios:p,dimensions:{plot:{left:l.globals.translateX,top:l.globals.translateY,width:l.globals.gridWidth,height:l.globals.gridHeight}}}}},{key:"mount",value:function(){var i=this,a=arguments.length>0&&arguments[0]!==void 0?arguments[0]:null,l=this,c=l.w;return new Promise(function(h,f){if(l.el===null)return f(new Error("Not enough data to display or target element not found"));(a===null||c.globals.allSeriesCollapsed)&&l.series.handleNoData(),l.grid=new Re(l);var p=l.grid.drawGrid();if(l.annotations=new ie(l),l.annotations.drawImageAnnos(),l.annotations.drawTextAnnos(),c.config.grid.position==="back"&&p&&c.globals.dom.elGraphical.add(p.el),Array.isArray(a.elGraph))for(var v=0;v<a.elGraph.length;v++)c.globals.dom.elGraphical.add(a.elGraph[v]);else c.globals.dom.elGraphical.add(a.elGraph);c.config.grid.position==="front"&&p&&c.globals.dom.elGraphical.add(p.el),p&&p.elGridBorders&&p.elGridBorders.node&&c.globals.dom.elGraphical.add(p.elGridBorders),c.config.xaxis.crosshairs.position==="front"&&l.crosshairs.drawXCrosshairs(),c.config.yaxis[0].crosshairs.position==="front"&&l.crosshairs.drawYCrosshairs(),c.config.chart.type!=="treemap"&&l.axes.drawAxis(c.config.chart.type,p);var x=new we(i.ctx,p),w=new Fe(i.ctx,p);if(p!==null&&(x.xAxisLabelCorrections(p.xAxisTickWidth),w.setYAxisTextAlignments(),c.config.yaxis.map(function(C,T){c.globals.ignoreYAxisIndexes.indexOf(T)===-1&&w.yAxisTitleRotate(T,C.opposite)})),l.annotations.drawAxesAnnotations(),!c.globals.noData){if(c.config.tooltip.enabled&&!c.globals.noData&&l.w.globals.tooltip.drawTooltip(a.xyRatios),c.globals.axisCharts&&(c.globals.isXNumeric||c.config.xaxis.convertedCatToNumeric||c.globals.isRangeBar))(c.config.chart.zoom.enabled||c.config.chart.selection&&c.config.chart.selection.enabled||c.config.chart.pan&&c.config.chart.pan.enabled)&&l.zoomPanSelection.init({xyRatios:a.xyRatios});else{var A=c.config.chart.toolbar.tools;["zoom","zoomin","zoomout","selection","pan","reset"].forEach(function(C){A[C]=!1})}c.config.chart.toolbar.show&&!c.globals.allSeriesCollapsed&&l.toolbar.createToolbar()}c.globals.memory.methodsToExec.length>0&&c.globals.memory.methodsToExec.forEach(function(C){C.method(C.params,!1,C.context)}),c.globals.axisCharts||c.globals.noData||l.core.resizeNonAxisCharts(),h(l)})}},{key:"destroy",value:function(){var i,a;window.removeEventListener("resize",this.windowResizeHandler),this.el.parentNode,i=this.parentResizeHandler,(a=Td.get(i))&&(a.disconnect(),Td.delete(i));var l=this.w.config.chart.id;l&&Apex._chartInstances.forEach(function(c,h){c.id===E.escapeString(l)&&Apex._chartInstances.splice(h,1)}),new Gx(this.ctx).clear({isUpdating:!1})}},{key:"updateOptions",value:function(i){var a=this,l=arguments.length>1&&arguments[1]!==void 0&&arguments[1],c=!(arguments.length>2&&arguments[2]!==void 0)||arguments[2],h=!(arguments.length>3&&arguments[3]!==void 0)||arguments[3],f=!(arguments.length>4&&arguments[4]!==void 0)||arguments[4],p=this.w;return p.globals.selection=void 0,i.series&&(this.series.resetSeries(!1,!0,!1),i.series.length&&i.series[0].data&&(i.series=i.series.map(function(v,x){return a.updateHelpers._extendSeries(v,x)})),this.updateHelpers.revertDefaultAxisMinMax()),i.xaxis&&(i=this.updateHelpers.forceXAxisUpdate(i)),i.yaxis&&(i=this.updateHelpers.forceYAxisUpdate(i)),p.globals.collapsedSeriesIndices.length>0&&this.series.clearPreviousPaths(),i.theme&&(i=this.theme.updateThemeOptions(i)),this.updateHelpers._updateOptions(i,l,c,h,f)}},{key:"updateSeries",value:function(){var i=arguments.length>0&&arguments[0]!==void 0?arguments[0]:[],a=!(arguments.length>1&&arguments[1]!==void 0)||arguments[1],l=!(arguments.length>2&&arguments[2]!==void 0)||arguments[2];return this.series.resetSeries(!1),this.updateHelpers.revertDefaultAxisMinMax(),this.updateHelpers._updateSeries(i,a,l)}},{key:"appendSeries",value:function(i){var a=!(arguments.length>1&&arguments[1]!==void 0)||arguments[1],l=!(arguments.length>2&&arguments[2]!==void 0)||arguments[2],c=this.w.config.series.slice();return c.push(i),this.series.resetSeries(!1),this.updateHelpers.revertDefaultAxisMinMax(),this.updateHelpers._updateSeries(c,a,l)}},{key:"appendData",value:function(i){var a=!(arguments.length>1&&arguments[1]!==void 0)||arguments[1],l=this;l.w.globals.dataChanged=!0,l.series.getPreviousPaths();for(var c=l.w.config.series.slice(),h=0;h<c.length;h++)if(i[h]!==null&&i[h]!==void 0)for(var f=0;f<i[h].data.length;f++)c[h].data.push(i[h].data[f]);return l.w.config.series=c,a&&(l.w.globals.initialSeries=E.clone(l.w.config.series)),this.update()}},{key:"update",value:function(i){var a=this;return new Promise(function(l,c){new Gx(a.ctx).clear({isUpdating:!0});var h=a.create(a.w.config.series,i);if(!h)return l(a);a.mount(h).then(function(){typeof a.w.config.chart.events.updated=="function"&&a.w.config.chart.events.updated(a,a.w),a.events.fireEvent("updated",[a,a.w]),a.w.globals.isDirty=!0,l(a)}).catch(function(f){c(f)})})}},{key:"getSyncedCharts",value:function(){var i=this.getGroupedCharts(),a=[this];return i.length&&(a=[],i.forEach(function(l){a.push(l)})),a}},{key:"getGroupedCharts",value:function(){var i=this;return Apex._chartInstances.filter(function(a){if(a.group)return!0}).map(function(a){return i.w.config.chart.group===a.group?a.chart:i})}},{key:"toggleSeries",value:function(i){return this.series.toggleSeries(i)}},{key:"highlightSeriesOnLegendHover",value:function(i,a){return this.series.toggleSeriesOnHover(i,a)}},{key:"showSeries",value:function(i){this.series.showSeries(i)}},{key:"hideSeries",value:function(i){this.series.hideSeries(i)}},{key:"resetSeries",value:function(){var i=!(arguments.length>0&&arguments[0]!==void 0)||arguments[0],a=!(arguments.length>1&&arguments[1]!==void 0)||arguments[1];this.series.resetSeries(i,a)}},{key:"addEventListener",value:function(i,a){this.events.addEventListener(i,a)}},{key:"removeEventListener",value:function(i,a){this.events.removeEventListener(i,a)}},{key:"addXaxisAnnotation",value:function(i){var a=!(arguments.length>1&&arguments[1]!==void 0)||arguments[1],l=arguments.length>2&&arguments[2]!==void 0?arguments[2]:void 0,c=this;l&&(c=l),c.annotations.addXaxisAnnotationExternal(i,a,c)}},{key:"addYaxisAnnotation",value:function(i){var a=!(arguments.length>1&&arguments[1]!==void 0)||arguments[1],l=arguments.length>2&&arguments[2]!==void 0?arguments[2]:void 0,c=this;l&&(c=l),c.annotations.addYaxisAnnotationExternal(i,a,c)}},{key:"addPointAnnotation",value:function(i){var a=!(arguments.length>1&&arguments[1]!==void 0)||arguments[1],l=arguments.length>2&&arguments[2]!==void 0?arguments[2]:void 0,c=this;l&&(c=l),c.annotations.addPointAnnotationExternal(i,a,c)}},{key:"clearAnnotations",value:function(){var i=arguments.length>0&&arguments[0]!==void 0?arguments[0]:void 0,a=this;i&&(a=i),a.annotations.clearAnnotations(a)}},{key:"removeAnnotation",value:function(i){var a=arguments.length>1&&arguments[1]!==void 0?arguments[1]:void 0,l=this;a&&(l=a),l.annotations.removeAnnotation(l,i)}},{key:"getChartArea",value:function(){return this.w.globals.dom.baseEl.querySelector(".apexcharts-inner")}},{key:"getSeriesTotalXRange",value:function(i,a){return this.coreUtils.getSeriesTotalsXRange(i,a)}},{key:"getHighestValueInSeries",value:function(){var i=arguments.length>0&&arguments[0]!==void 0?arguments[0]:0;return new De(this.ctx).getMinYMaxY(i).highestY}},{key:"getLowestValueInSeries",value:function(){var i=arguments.length>0&&arguments[0]!==void 0?arguments[0]:0;return new De(this.ctx).getMinYMaxY(i).lowestY}},{key:"getSeriesTotal",value:function(){return this.w.globals.seriesTotals}},{key:"toggleDataPointSelection",value:function(i,a){return this.updateHelpers.toggleDataPointSelection(i,a)}},{key:"zoomX",value:function(i,a){this.ctx.toolbar.zoomUpdateOptions(i,a)}},{key:"setLocale",value:function(i){this.localization.setCurrentLocaleValues(i)}},{key:"dataURI",value:function(i){return new de(this.ctx).dataURI(i)}},{key:"exportToCSV",value:function(){var i=arguments.length>0&&arguments[0]!==void 0?arguments[0]:{};return new de(this.ctx).exportToCSV(i)}},{key:"paper",value:function(){return this.w.globals.dom.Paper}},{key:"_parentResizeCallback",value:function(){this.w.globals.animationEnded&&this.w.config.chart.redrawOnParentResize&&this._windowResize()}},{key:"_windowResize",value:function(){var i=this;clearTimeout(this.w.globals.resizeTimer),this.w.globals.resizeTimer=window.setTimeout(function(){i.w.globals.resized=!0,i.w.globals.dataChanged=!1,i.ctx.update()},150)}},{key:"_windowResizeHandler",value:function(){var i=this.w.config.chart.redrawOnWindowResize;typeof i=="function"&&(i=i()),i&&this._windowResize()}}],[{key:"getChartByID",value:function(i){var a=E.escapeString(i),l=Apex._chartInstances.filter(function(c){return c.id===a})[0];return l&&l.chart}},{key:"initOnLoad",value:function(){for(var i=document.querySelectorAll("[data-apexcharts]"),a=0;a<i.length;a++)new X(i[a],JSON.parse(i[a].getAttribute("data-options"))).render()}},{key:"exec",value:function(i,a){var l=this.getChartByID(i);if(l){l.w.globals.isExecCalled=!0;var c=null;if(l.publicMethods.indexOf(a)!==-1){for(var h=arguments.length,f=new Array(h>2?h-2:0),p=2;p<h;p++)f[p-2]=arguments[p];c=l[a].apply(l,f)}return c}}},{key:"merge",value:function(i,a){return E.extend(i,a)}}]),X}();e.exports=VE})(Tm,Tm.exports);var VJ=Tm.exports,AE;Object.defineProperty(SE,"__esModule",{value:!0});var GJ=typeof Symbol=="function"&&typeof Symbol.iterator=="symbol"?function(e){return typeof e}:function(e){return e&&typeof Symbol=="function"&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},UJ=Object.assign||function(e){for(var t=1;t<arguments.length;t++){var r=arguments[t];for(var n in r)Object.prototype.hasOwnProperty.call(r,n)&&(e[n]=r[n])}return e},qJ=function(){function e(t,r){for(var n=0;n<r.length;n++){var o=r[n];o.enumerable=o.enumerable||!1,o.configurable=!0,"value"in o&&(o.writable=!0),Object.defineProperty(t,o.key,o)}}return function(t,r,n){return r&&e(t.prototype,r),n&&e(t,n),t}}(),KJ=VJ,kE=Rx(KJ),CE=ye,Qs=Rx(CE),ZJ=pO,Js=Rx(ZJ);function Rx(e){return e&&e.__esModule?e:{default:e}}function QJ(e,t,r){return t in e?Object.defineProperty(e,t,{value:r,enumerable:!0,configurable:!0,writable:!0}):e[t]=r,e}function JJ(e,t){var r={};for(var n in e)0<=t.indexOf(n)||Object.prototype.hasOwnProperty.call(e,n)&&(r[n]=e[n]);return r}function eee(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}function tee(e,t){if(!e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return!t||typeof t!="object"&&typeof t!="function"?e:t}function ree(e,t){if(typeof t!="function"&&t!==null)throw new TypeError("Super expression must either be null or a function, not "+typeof t);e.prototype=Object.create(t&&t.prototype,{constructor:{value:e,enumerable:!1,writable:!0,configurable:!0}}),t&&(Object.setPrototypeOf?Object.setPrototypeOf(e,t):e.__proto__=t)}window.ApexCharts=kE.default;var AA=function(){function e(t){eee(this,e);var r=tee(this,(e.__proto__||Object.getPrototypeOf(e)).call(this,t));return Qs.default.createRef?r.chartRef=Qs.default.createRef():r.setRef=function(n){return r.chartRef=n},r.chart=null,r}return ree(e,CE.Component),qJ(e,[{key:"render",value:function(){var t=this.props,r=(t.type,t.height,t.width,t.series,t.options,JJ(t,["type","height","width","series","options"]));return Qs.default.createElement("div",UJ({ref:Qs.default.createRef?this.chartRef:this.setRef},r))}},{key:"componentDidMount",value:function(){var t=Qs.default.createRef?this.chartRef.current:this.chartRef;this.chart=new kE.default(t,this.getConfig()),this.chart.render()}},{key:"getConfig",value:function(){var t=this.props,r=t.type,n=t.height,o=t.width,s=t.series,u=t.options,d={chart:{type:r,height:n,width:o},series:s};return this.extend(u,d)}},{key:"isObject",value:function(t){return t&&(t===void 0?"undefined":GJ(t))==="object"&&!Array.isArray(t)&&t!=null}},{key:"extend",value:function(t,r){var n=this;typeof Object.assign!="function"&&(Object.assign=function(s){if(s==null)throw new TypeError("Cannot convert undefined or null to object");for(var u=Object(s),d=1;d<arguments.length;d++){var g=arguments[d];if(g!=null)for(var m in g)g.hasOwnProperty(m)&&(u[m]=g[m])}return u});var o=Object.assign({},t);return this.isObject(t)&&this.isObject(r)&&Object.keys(r).forEach(function(s){n.isObject(r[s])&&s in t?o[s]=n.extend(t[s],r[s]):Object.assign(o,QJ({},s,r[s]))}),o}},{key:"componentDidUpdate",value:function(t){if(!this.chart)return null;var r=this.props,n=r.options,o=r.series,s=r.height,u=r.width,d=JSON.stringify(t.options),g=JSON.stringify(t.series),m=JSON.stringify(n),S=JSON.stringify(o);d===m&&g===S&&s===t.height&&u===t.width||(g===S?this.chart.updateOptions(this.getConfig()):d===m&&s===t.height&&u===t.width?this.chart.updateSeries(o):this.chart.updateOptions(this.getConfig()))}},{key:"componentWillUnmount",value:function(){this.chart&&typeof this.chart.destroy=="function"&&this.chart.destroy()}}]),e}();(AE=SE.default=AA).propTypes={type:Js.default.string.isRequired,width:Js.default.any,height:Js.default.any,series:Js.default.array.isRequired,options:Js.default.object.isRequired},AA.defaultProps={type:"line",width:"100%",height:"auto"};const nee=pe.div`
+`,f?h.prepend(i.css):p.head.appendChild(i.css))}var x=i.create(i.w.config.series,{});if(!x)return a(i);i.mount(x).then(function(){typeof i.w.config.chart.events.mounted=="function"&&i.w.config.chart.events.mounted(i,i.w),i.events.fireEvent("mounted",[i,i.w]),a(x)}).catch(function(w){l(w)})}else l(new Error("Element not found"))})}},{key:"create",value:function(i,a){var l=this.w;new Vx(this).initModules();var c=this.w.globals;if(c.noData=!1,c.animationEnded=!1,this.responsive.checkResponsiveConfig(a),l.config.xaxis.convertedCatToNumeric&&new ae(l.config).convertCatToNumericXaxis(l.config,this.ctx),this.el===null||(this.core.setupElements(),l.config.chart.type==="treemap"&&(l.config.grid.show=!1,l.config.yaxis[0].show=!1),c.svgWidth===0))return c.animationEnded=!0,null;var h=B.checkComboSeries(i);c.comboCharts=h.comboCharts,c.comboBarCount=h.comboBarCount;var f=i.every(function(w){return w.data&&w.data.length===0});(i.length===0||f)&&this.series.handleNoData(),this.events.setupEventHandlers(),this.data.parseData(i),this.theme.init(),new Oe(this).setGlobalMarkerSize(),this.formatters.setLabelFormatters(),this.titleSubtitle.draw(),c.noData&&c.collapsedSeries.length!==c.series.length&&!l.config.legend.showForSingleSeries||this.legend.init(),this.series.hasAllSeriesEqualX(),c.axisCharts&&(this.core.coreCalculations(),l.config.xaxis.type!=="category"&&this.formatters.setLabelFormatters(),this.ctx.toolbar.minX=l.globals.minX,this.ctx.toolbar.maxX=l.globals.maxX),this.formatters.heatmapLabelFormatters(),new B(this).getLargestMarkerSize(),this.dimensions.plotCoords();var p=this.core.xySettings();this.grid.createGridMask();var v=this.core.plotChartType(i,p),x=new Be(this);return x.bringForward(),l.config.dataLabels.background.enabled&&x.dataLabelsBackground(),this.core.shiftGraphPosition(),{elGraph:v,xyRatios:p,dimensions:{plot:{left:l.globals.translateX,top:l.globals.translateY,width:l.globals.gridWidth,height:l.globals.gridHeight}}}}},{key:"mount",value:function(){var i=this,a=arguments.length>0&&arguments[0]!==void 0?arguments[0]:null,l=this,c=l.w;return new Promise(function(h,f){if(l.el===null)return f(new Error("Not enough data to display or target element not found"));(a===null||c.globals.allSeriesCollapsed)&&l.series.handleNoData(),l.grid=new Re(l);var p=l.grid.drawGrid();if(l.annotations=new ie(l),l.annotations.drawImageAnnos(),l.annotations.drawTextAnnos(),c.config.grid.position==="back"&&p&&c.globals.dom.elGraphical.add(p.el),Array.isArray(a.elGraph))for(var v=0;v<a.elGraph.length;v++)c.globals.dom.elGraphical.add(a.elGraph[v]);else c.globals.dom.elGraphical.add(a.elGraph);c.config.grid.position==="front"&&p&&c.globals.dom.elGraphical.add(p.el),p&&p.elGridBorders&&p.elGridBorders.node&&c.globals.dom.elGraphical.add(p.elGridBorders),c.config.xaxis.crosshairs.position==="front"&&l.crosshairs.drawXCrosshairs(),c.config.yaxis[0].crosshairs.position==="front"&&l.crosshairs.drawYCrosshairs(),c.config.chart.type!=="treemap"&&l.axes.drawAxis(c.config.chart.type,p);var x=new we(i.ctx,p),w=new Fe(i.ctx,p);if(p!==null&&(x.xAxisLabelCorrections(p.xAxisTickWidth),w.setYAxisTextAlignments(),c.config.yaxis.map(function(C,T){c.globals.ignoreYAxisIndexes.indexOf(T)===-1&&w.yAxisTitleRotate(T,C.opposite)})),l.annotations.drawAxesAnnotations(),!c.globals.noData){if(c.config.tooltip.enabled&&!c.globals.noData&&l.w.globals.tooltip.drawTooltip(a.xyRatios),c.globals.axisCharts&&(c.globals.isXNumeric||c.config.xaxis.convertedCatToNumeric||c.globals.isRangeBar))(c.config.chart.zoom.enabled||c.config.chart.selection&&c.config.chart.selection.enabled||c.config.chart.pan&&c.config.chart.pan.enabled)&&l.zoomPanSelection.init({xyRatios:a.xyRatios});else{var A=c.config.chart.toolbar.tools;["zoom","zoomin","zoomout","selection","pan","reset"].forEach(function(C){A[C]=!1})}c.config.chart.toolbar.show&&!c.globals.allSeriesCollapsed&&l.toolbar.createToolbar()}c.globals.memory.methodsToExec.length>0&&c.globals.memory.methodsToExec.forEach(function(C){C.method(C.params,!1,C.context)}),c.globals.axisCharts||c.globals.noData||l.core.resizeNonAxisCharts(),h(l)})}},{key:"destroy",value:function(){var i,a;window.removeEventListener("resize",this.windowResizeHandler),this.el.parentNode,i=this.parentResizeHandler,(a=Td.get(i))&&(a.disconnect(),Td.delete(i));var l=this.w.config.chart.id;l&&Apex._chartInstances.forEach(function(c,h){c.id===E.escapeString(l)&&Apex._chartInstances.splice(h,1)}),new Gx(this.ctx).clear({isUpdating:!1})}},{key:"updateOptions",value:function(i){var a=this,l=arguments.length>1&&arguments[1]!==void 0&&arguments[1],c=!(arguments.length>2&&arguments[2]!==void 0)||arguments[2],h=!(arguments.length>3&&arguments[3]!==void 0)||arguments[3],f=!(arguments.length>4&&arguments[4]!==void 0)||arguments[4],p=this.w;return p.globals.selection=void 0,i.series&&(this.series.resetSeries(!1,!0,!1),i.series.length&&i.series[0].data&&(i.series=i.series.map(function(v,x){return a.updateHelpers._extendSeries(v,x)})),this.updateHelpers.revertDefaultAxisMinMax()),i.xaxis&&(i=this.updateHelpers.forceXAxisUpdate(i)),i.yaxis&&(i=this.updateHelpers.forceYAxisUpdate(i)),p.globals.collapsedSeriesIndices.length>0&&this.series.clearPreviousPaths(),i.theme&&(i=this.theme.updateThemeOptions(i)),this.updateHelpers._updateOptions(i,l,c,h,f)}},{key:"updateSeries",value:function(){var i=arguments.length>0&&arguments[0]!==void 0?arguments[0]:[],a=!(arguments.length>1&&arguments[1]!==void 0)||arguments[1],l=!(arguments.length>2&&arguments[2]!==void 0)||arguments[2];return this.series.resetSeries(!1),this.updateHelpers.revertDefaultAxisMinMax(),this.updateHelpers._updateSeries(i,a,l)}},{key:"appendSeries",value:function(i){var a=!(arguments.length>1&&arguments[1]!==void 0)||arguments[1],l=!(arguments.length>2&&arguments[2]!==void 0)||arguments[2],c=this.w.config.series.slice();return c.push(i),this.series.resetSeries(!1),this.updateHelpers.revertDefaultAxisMinMax(),this.updateHelpers._updateSeries(c,a,l)}},{key:"appendData",value:function(i){var a=!(arguments.length>1&&arguments[1]!==void 0)||arguments[1],l=this;l.w.globals.dataChanged=!0,l.series.getPreviousPaths();for(var c=l.w.config.series.slice(),h=0;h<c.length;h++)if(i[h]!==null&&i[h]!==void 0)for(var f=0;f<i[h].data.length;f++)c[h].data.push(i[h].data[f]);return l.w.config.series=c,a&&(l.w.globals.initialSeries=E.clone(l.w.config.series)),this.update()}},{key:"update",value:function(i){var a=this;return new Promise(function(l,c){new Gx(a.ctx).clear({isUpdating:!0});var h=a.create(a.w.config.series,i);if(!h)return l(a);a.mount(h).then(function(){typeof a.w.config.chart.events.updated=="function"&&a.w.config.chart.events.updated(a,a.w),a.events.fireEvent("updated",[a,a.w]),a.w.globals.isDirty=!0,l(a)}).catch(function(f){c(f)})})}},{key:"getSyncedCharts",value:function(){var i=this.getGroupedCharts(),a=[this];return i.length&&(a=[],i.forEach(function(l){a.push(l)})),a}},{key:"getGroupedCharts",value:function(){var i=this;return Apex._chartInstances.filter(function(a){if(a.group)return!0}).map(function(a){return i.w.config.chart.group===a.group?a.chart:i})}},{key:"toggleSeries",value:function(i){return this.series.toggleSeries(i)}},{key:"highlightSeriesOnLegendHover",value:function(i,a){return this.series.toggleSeriesOnHover(i,a)}},{key:"showSeries",value:function(i){this.series.showSeries(i)}},{key:"hideSeries",value:function(i){this.series.hideSeries(i)}},{key:"resetSeries",value:function(){var i=!(arguments.length>0&&arguments[0]!==void 0)||arguments[0],a=!(arguments.length>1&&arguments[1]!==void 0)||arguments[1];this.series.resetSeries(i,a)}},{key:"addEventListener",value:function(i,a){this.events.addEventListener(i,a)}},{key:"removeEventListener",value:function(i,a){this.events.removeEventListener(i,a)}},{key:"addXaxisAnnotation",value:function(i){var a=!(arguments.length>1&&arguments[1]!==void 0)||arguments[1],l=arguments.length>2&&arguments[2]!==void 0?arguments[2]:void 0,c=this;l&&(c=l),c.annotations.addXaxisAnnotationExternal(i,a,c)}},{key:"addYaxisAnnotation",value:function(i){var a=!(arguments.length>1&&arguments[1]!==void 0)||arguments[1],l=arguments.length>2&&arguments[2]!==void 0?arguments[2]:void 0,c=this;l&&(c=l),c.annotations.addYaxisAnnotationExternal(i,a,c)}},{key:"addPointAnnotation",value:function(i){var a=!(arguments.length>1&&arguments[1]!==void 0)||arguments[1],l=arguments.length>2&&arguments[2]!==void 0?arguments[2]:void 0,c=this;l&&(c=l),c.annotations.addPointAnnotationExternal(i,a,c)}},{key:"clearAnnotations",value:function(){var i=arguments.length>0&&arguments[0]!==void 0?arguments[0]:void 0,a=this;i&&(a=i),a.annotations.clearAnnotations(a)}},{key:"removeAnnotation",value:function(i){var a=arguments.length>1&&arguments[1]!==void 0?arguments[1]:void 0,l=this;a&&(l=a),l.annotations.removeAnnotation(l,i)}},{key:"getChartArea",value:function(){return this.w.globals.dom.baseEl.querySelector(".apexcharts-inner")}},{key:"getSeriesTotalXRange",value:function(i,a){return this.coreUtils.getSeriesTotalsXRange(i,a)}},{key:"getHighestValueInSeries",value:function(){var i=arguments.length>0&&arguments[0]!==void 0?arguments[0]:0;return new De(this.ctx).getMinYMaxY(i).highestY}},{key:"getLowestValueInSeries",value:function(){var i=arguments.length>0&&arguments[0]!==void 0?arguments[0]:0;return new De(this.ctx).getMinYMaxY(i).lowestY}},{key:"getSeriesTotal",value:function(){return this.w.globals.seriesTotals}},{key:"toggleDataPointSelection",value:function(i,a){return this.updateHelpers.toggleDataPointSelection(i,a)}},{key:"zoomX",value:function(i,a){this.ctx.toolbar.zoomUpdateOptions(i,a)}},{key:"setLocale",value:function(i){this.localization.setCurrentLocaleValues(i)}},{key:"dataURI",value:function(i){return new de(this.ctx).dataURI(i)}},{key:"exportToCSV",value:function(){var i=arguments.length>0&&arguments[0]!==void 0?arguments[0]:{};return new de(this.ctx).exportToCSV(i)}},{key:"paper",value:function(){return this.w.globals.dom.Paper}},{key:"_parentResizeCallback",value:function(){this.w.globals.animationEnded&&this.w.config.chart.redrawOnParentResize&&this._windowResize()}},{key:"_windowResize",value:function(){var i=this;clearTimeout(this.w.globals.resizeTimer),this.w.globals.resizeTimer=window.setTimeout(function(){i.w.globals.resized=!0,i.w.globals.dataChanged=!1,i.ctx.update()},150)}},{key:"_windowResizeHandler",value:function(){var i=this.w.config.chart.redrawOnWindowResize;typeof i=="function"&&(i=i()),i&&this._windowResize()}}],[{key:"getChartByID",value:function(i){var a=E.escapeString(i),l=Apex._chartInstances.filter(function(c){return c.id===a})[0];return l&&l.chart}},{key:"initOnLoad",value:function(){for(var i=document.querySelectorAll("[data-apexcharts]"),a=0;a<i.length;a++)new X(i[a],JSON.parse(i[a].getAttribute("data-options"))).render()}},{key:"exec",value:function(i,a){var l=this.getChartByID(i);if(l){l.w.globals.isExecCalled=!0;var c=null;if(l.publicMethods.indexOf(a)!==-1){for(var h=arguments.length,f=new Array(h>2?h-2:0),p=2;p<h;p++)f[p-2]=arguments[p];c=l[a].apply(l,f)}return c}}},{key:"merge",value:function(i,a){return E.extend(i,a)}}]),X}();e.exports=VE})(Tm,Tm.exports);var XJ=Tm.exports,AE;Object.defineProperty(SE,"__esModule",{value:!0});var WJ=typeof Symbol=="function"&&typeof Symbol.iterator=="symbol"?function(e){return typeof e}:function(e){return e&&typeof Symbol=="function"&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},YJ=Object.assign||function(e){for(var t=1;t<arguments.length;t++){var r=arguments[t];for(var n in r)Object.prototype.hasOwnProperty.call(r,n)&&(e[n]=r[n])}return e},VJ=function(){function e(t,r){for(var n=0;n<r.length;n++){var o=r[n];o.enumerable=o.enumerable||!1,o.configurable=!0,"value"in o&&(o.writable=!0),Object.defineProperty(t,o.key,o)}}return function(t,r,n){return r&&e(t.prototype,r),n&&e(t,n),t}}(),GJ=XJ,kE=Rx(GJ),CE=ye,Qs=Rx(CE),UJ=pO,Js=Rx(UJ);function Rx(e){return e&&e.__esModule?e:{default:e}}function qJ(e,t,r){return t in e?Object.defineProperty(e,t,{value:r,enumerable:!0,configurable:!0,writable:!0}):e[t]=r,e}function KJ(e,t){var r={};for(var n in e)0<=t.indexOf(n)||Object.prototype.hasOwnProperty.call(e,n)&&(r[n]=e[n]);return r}function ZJ(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}function QJ(e,t){if(!e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return!t||typeof t!="object"&&typeof t!="function"?e:t}function JJ(e,t){if(typeof t!="function"&&t!==null)throw new TypeError("Super expression must either be null or a function, not "+typeof t);e.prototype=Object.create(t&&t.prototype,{constructor:{value:e,enumerable:!1,writable:!0,configurable:!0}}),t&&(Object.setPrototypeOf?Object.setPrototypeOf(e,t):e.__proto__=t)}window.ApexCharts=kE.default;var AA=function(){function e(t){ZJ(this,e);var r=QJ(this,(e.__proto__||Object.getPrototypeOf(e)).call(this,t));return Qs.default.createRef?r.chartRef=Qs.default.createRef():r.setRef=function(n){return r.chartRef=n},r.chart=null,r}return JJ(e,CE.Component),VJ(e,[{key:"render",value:function(){var t=this.props,r=(t.type,t.height,t.width,t.series,t.options,KJ(t,["type","height","width","series","options"]));return Qs.default.createElement("div",YJ({ref:Qs.default.createRef?this.chartRef:this.setRef},r))}},{key:"componentDidMount",value:function(){var t=Qs.default.createRef?this.chartRef.current:this.chartRef;this.chart=new kE.default(t,this.getConfig()),this.chart.render()}},{key:"getConfig",value:function(){var t=this.props,r=t.type,n=t.height,o=t.width,s=t.series,u=t.options,d={chart:{type:r,height:n,width:o},series:s};return this.extend(u,d)}},{key:"isObject",value:function(t){return t&&(t===void 0?"undefined":WJ(t))==="object"&&!Array.isArray(t)&&t!=null}},{key:"extend",value:function(t,r){var n=this;typeof Object.assign!="function"&&(Object.assign=function(s){if(s==null)throw new TypeError("Cannot convert undefined or null to object");for(var u=Object(s),d=1;d<arguments.length;d++){var g=arguments[d];if(g!=null)for(var m in g)g.hasOwnProperty(m)&&(u[m]=g[m])}return u});var o=Object.assign({},t);return this.isObject(t)&&this.isObject(r)&&Object.keys(r).forEach(function(s){n.isObject(r[s])&&s in t?o[s]=n.extend(t[s],r[s]):Object.assign(o,qJ({},s,r[s]))}),o}},{key:"componentDidUpdate",value:function(t){if(!this.chart)return null;var r=this.props,n=r.options,o=r.series,s=r.height,u=r.width,d=JSON.stringify(t.options),g=JSON.stringify(t.series),m=JSON.stringify(n),S=JSON.stringify(o);d===m&&g===S&&s===t.height&&u===t.width||(g===S?this.chart.updateOptions(this.getConfig()):d===m&&s===t.height&&u===t.width?this.chart.updateSeries(o):this.chart.updateOptions(this.getConfig()))}},{key:"componentWillUnmount",value:function(){this.chart&&typeof this.chart.destroy=="function"&&this.chart.destroy()}}]),e}();(AE=SE.default=AA).propTypes={type:Js.default.string.isRequired,width:Js.default.any,height:Js.default.any,series:Js.default.array.isRequired,options:Js.default.object.isRequired},AA.defaultProps={type:"line",width:"100%",height:"auto"};const eee=pe.div`
   height: 230px;
   width: 230px;
   background: #5bb6c7;
@@ -1389,12 +1397,12 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   justify-content: center;
   align-items: center;
   margin: 30px 20px;
-`,iee=pe.img`
+`,tee=pe.img`
   position: absolute;
   margin-top: -34px;
   margin-left: 20px;
   width: 360px;
-`,aee=()=>{const e=[Te.estadisticaDelJugador.resumen.vision,Te.estadisticaDelJugador.resumen.sacadicos,Te.estadisticaDelJugador.resumen.headCompensation,Te.estadisticaDelJugador.resumen.resistencia],t={chart:{width:300,height:300,type:"polarArea",selection:{enabled:!1,type:"x",fill:{color:"#5CE1E6",opacity:.1}}},labels:["Rose A","Rose B","Rose C","Rose D"],fill:{opacity:1},stroke:{width:2,colors:["#fff"]},tooltip:{enabled:!1,onDatasetHover:{highlightDataSeries:!1}},hover:{mode:null},yaxis:{show:!1},legend:{show:!1},plotOptions:{polarArea:{rings:{strokeWidth:0},spokes:{strokeWidth:0}}},theme:{monochrome:{enabled:!0,color:"#5CE1E6",shadeTo:"light",shadeIntensity:0}}};return F.jsx(F.Fragment,{children:F.jsxs(yr,{title:"RESUMEN",children:[F.jsx(nee,{children:F.jsx(AE,{options:t,series:e,type:"polarArea",width:300})}),F.jsx(iee,{src:zQ})]})})},oee=pe.div`
+`,ree=()=>{const e=[Te.estadisticaDelJugador.resumen.vision,Te.estadisticaDelJugador.resumen.sacadicos,Te.estadisticaDelJugador.resumen.headCompensation,Te.estadisticaDelJugador.resumen.resistencia],t={chart:{width:300,height:300,type:"polarArea",selection:{enabled:!1,type:"x",fill:{color:"#5CE1E6",opacity:.1}}},labels:["Rose A","Rose B","Rose C","Rose D"],fill:{opacity:1},stroke:{width:2,colors:["#fff"]},tooltip:{enabled:!1,onDatasetHover:{highlightDataSeries:!1}},hover:{mode:null},yaxis:{show:!1},legend:{show:!1},plotOptions:{polarArea:{rings:{strokeWidth:0},spokes:{strokeWidth:0}}},theme:{monochrome:{enabled:!0,color:"#5CE1E6",shadeTo:"light",shadeIntensity:0}}};return F.jsx(F.Fragment,{children:F.jsxs(yr,{title:"RESUMEN",children:[F.jsx(eee,{children:F.jsx(AE,{options:t,series:e,type:"polarArea",width:300})}),F.jsx(tee,{src:DQ})]})})},nee=pe.div`
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -1410,14 +1418,14 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     font-size: 18px;
     font-weight: 500;
   }
-`,see=pe.div`
+`,iee=pe.div`
   border: 6px solid #ffc65e;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 240px;
   width: 170px;
-`,lee=pe.div`
+`,aee=pe.div`
   border: 3px solid #c8e263;
   height: 210px;
   width: 140px;
@@ -1427,7 +1435,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     object-fit: cover;
     height: 210px;
   }
-`,cee=()=>F.jsx(F.Fragment,{children:F.jsxs(oee,{children:[F.jsx("h3",{children:"Software"}),F.jsx("h3",{children:"BBM"}),F.jsx("img",{src:Mx}),F.jsx(see,{children:F.jsx(lee,{children:F.jsx("img",{src:HQ})})})]})}),uee=pe.div`
+`,oee=()=>F.jsx(F.Fragment,{children:F.jsxs(nee,{children:[F.jsx("h3",{children:"Software"}),F.jsx("h3",{children:"BBM"}),F.jsx("img",{src:Mx}),F.jsx(iee,{children:F.jsx(aee,{children:F.jsx("img",{src:BQ})})})]})}),see=pe.div`
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -1435,19 +1443,29 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   padding: 12px 6px;
   width: 730px;
   gap: 20px;
+
+  @media (max-width: 765px) {
+    flex-direction: column;
+    width: 80%;
+  }
+
   & > p {
     color: #fff;
     line-height: 22px;
     text-align: justify;
     width: ${({widthh:e})=>e?"50%":"auto"};
+
+    @media (max-width: 765px) {
+      width: 100%;
+    }
   }
-`,$x=({title:e,textL:t,textR:r,children:n})=>F.jsx(yr,{textBox:"true",title:e,children:F.jsxs(uee,{widthh:r,children:[n,F.jsx("p",{children:t}),r?F.jsx("p",{children:r}):F.jsx(F.Fragment,{})]})});pe.div`
+`,$x=({title:e,textL:t,textR:r,children:n})=>F.jsx(yr,{textBox:"true",title:e,children:F.jsxs(see,{widthh:r,children:[n,F.jsx("p",{children:t}),r?F.jsx("p",{children:r}):F.jsx(F.Fragment,{})]})});pe.div`
   display: flex;
   flex-direction: row;
   padding-top: 120px;
   min-height: 100%;
   width: 900px;
-`;const hee=pe.div`
+`;const lee=pe.div`
   background: transparent;
   display: flex;
   height: fit-content;
@@ -1460,33 +1478,46 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     font-weight: 100;
     background-color: #55c7cd;
   }
-`,fee=pe.div`
+`,cee=pe.div`
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
   align-items: center;
-`,dee=pe.img`
+  @media (max-width: 765px) {
+    flex-direction: column;
+  }
+`,uee=pe.img`
   border: 4px solid #fff;
   border-radius: 50%;
   height: 172px;
-`,pee=pe.div`
+`,hee=pe.div`
   height: 170px;
   width: 4px;
   background: #fff;
   margin-right: 20px;
-`,gee=pe.h1`
+
+  @media (max-width: 765px) {
+    display: none;
+  }
+`,fee=pe.h1`
   font-size: 80px;
   font-weight: 700;
   color: transparent;
   text-align: right;
   -webkit-text-stroke: 2px #fff;
-`,vee=pe.h1`
+  @media (max-width: 765px) {
+    text-align: center;
+  }
+`,dee=pe.h1`
   font-size: 80px;
   font-weight: 700;
   text-align: right;
   color: #fff;
   text-shadow: 6px 4px #8f919c;
-`,mee=e=>F.jsxs(F.Fragment,{children:[F.jsx(hee,{children:F.jsxs("h2",{children:["ID ",e.id]})}),F.jsxs(fee,{children:[F.jsx(dee,{src:BQ}),F.jsx(pee,{}),F.jsxs("div",{children:[F.jsx(gee,{children:e.firstName.toUpperCase()}),F.jsx(vee,{children:e.lastName.toUpperCase()})]})]})]}),PE=()=>{const[e,t]=ye.useState("");return ye.useEffect(()=>{const r=new Date,n=r.getDate(),o=r.getMonth()+1,s=r.getFullYear(),u=`${n.toString().padStart(2,"0")}.${o.toString().padStart(2,"0")}.${s}`;t(u)},[]),e},yee=pe.div`
+  @media (max-width: 765px) {
+    text-align: center;
+  }
+`,pee=e=>F.jsxs(F.Fragment,{children:[F.jsx(lee,{children:F.jsxs("h2",{children:["ID ",e.id]})}),F.jsxs(cee,{children:[F.jsx(uee,{src:FQ}),F.jsx(hee,{}),F.jsxs("div",{children:[F.jsx(fee,{children:e.firstName.toUpperCase()}),F.jsx(dee,{children:e.lastName.toUpperCase()})]})]})]}),PE=()=>{const[e,t]=ye.useState("");return ye.useEffect(()=>{const r=new Date,n=r.getDate(),o=r.getMonth()+1,s=r.getFullYear(),u=`${n.toString().padStart(2,"0")}.${o.toString().padStart(2,"0")}.${s}`;t(u)},[]),e},gee=pe.div`
   display: flex;
   flex-direction: column;
   padding-top: 120px;
@@ -1496,6 +1527,11 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   margin-top: 20px;
   display: flex;
   justify-content: space-between;
+  
+  @media (max-width: 765px) {
+    flex-direction: column;
+    gap: 12px;
+  }
 `,OE=pe.div`
   margin: 20px 0px;
   display: flex;
@@ -1510,18 +1546,18 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     text-align: center;
     width: fit-content;
   }
-`,xee=pe.div`
+`,vee=pe.div`
   display: flex;
   flex-direction: column;
   gap: 20px;
   padding-top: 120px;
   min-height: 100%;
   width: 750px;
-`,bee=pe.div`
+`,mee=pe.div`
   margin-top: 20px;
   display: flex;
   justify-content: space-between;
-`,wee=()=>{const e=PE();return F.jsx(Pd,{children:F.jsxs(xee,{children:[F.jsx(jx,{title:"PLAYER STATISTICS",upTitle:"VISION PERFORMANCE",text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin quis tellus in facilisis. Aenean aliquet hendrerit felis, sagittis pulvinar augue ullamcorper ut."}),F.jsx(vJ,{positionCircle:Te.estadisticaDelJugador.eloDistribution-1}),F.jsxs(bee,{children:[F.jsx(aee,{}),F.jsx(YJ,{data:Te.estadisticaDelJugador.recomendaciones})]}),F.jsx(OE,{children:F.jsxs("h3",{children:["EVALUATION DATE | ",e]})})]})})},ku=pe.div`
+`,yee=()=>{const e=PE();return F.jsx(Pd,{children:F.jsxs(vee,{children:[F.jsx(jx,{title:"PLAYER STATISTICS",upTitle:"VISION PERFORMANCE",text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin quis tellus in facilisis. Aenean aliquet hendrerit felis, sagittis pulvinar augue ullamcorper ut."}),F.jsx(gJ,{positionCircle:Te.estadisticaDelJugador.eloDistribution-1}),F.jsxs(mee,{children:[F.jsx(ree,{}),F.jsx(HJ,{data:Te.estadisticaDelJugador.recomendaciones})]}),F.jsx(OE,{children:F.jsxs("h3",{children:["EVALUATION DATE | ",e]})})]})})},ku=pe.div`
   display: flex;
   align-items: center;
   border-bottom: ${({notbordered:e})=>e?"none":"1px solid #8d8d9b"};
@@ -1553,7 +1589,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   color: #fff;
   z-index: 50;
   font-size: 14px;
-`,See=({progress:e})=>F.jsxs(yr,{title:"VISION PERFORMANCE",titleDirection:"right",rounded:!0,dPadding:"2px 10px",children:[F.jsxs(ku,{children:[F.jsx(Cu,{children:"Peripheral vision"}),F.jsxs(Pu,{children:[F.jsxs(Eu,{children:[e.periferica,"%"]}),F.jsx(Ou,{progress:e.periferica})]})]}),F.jsxs(ku,{children:[F.jsx(Cu,{children:"Ocular endurance"}),F.jsxs(Pu,{children:[F.jsxs(Eu,{children:[e.resistencia,"%"]}),F.jsx(Ou,{progress:e.resistencia})]})]}),F.jsxs(ku,{children:[F.jsx(Cu,{children:"Compensatory head movement"}),F.jsxs(Pu,{children:[F.jsxs(Eu,{children:[e.compensation,"%"]}),F.jsx(Ou,{progress:e.compensation})]})]}),F.jsxs(ku,{notbordered:"true",children:[F.jsx(Cu,{children:"Saccades"}),F.jsxs(Pu,{children:[F.jsxs(Eu,{children:[e.sacadios,"%"]}),F.jsx(Ou,{progress:e.sacadios})]})]})]}),Aee=()=>{const e=PE();return F.jsx(Pd,{children:F.jsxs(yee,{children:[F.jsx(mee,{id:Te.id,firstName:Te.firstName,lastName:Te.lastName}),F.jsxs(Zp,{children:[F.jsx(yJ,{ranking:Te.home.ranking}),F.jsx(See,{progress:Te.home.visionPerformance})]}),F.jsxs(Zp,{children:[F.jsx(bM,{radioValue:Te.home.asimetriaFuncional}),F.jsx(ZQ,{needleData:Te.home.decisionBajoPresion})]}),F.jsx(Zp,{children:F.jsx($x,{title:"RESULT INTERPRETATION",textL:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin quis tellus in facilisis. Aenean aliquet hendrerit felis, sagittis pulvinar augue ullamcorper ut. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec varius felis. Nulla sapien neque, ullamcorper eu suscipit eu, condimentum eget ligula.  ",textR:"Mauris id vulputate urna. Praesent rhoncus velit a quam scelerisque, et maximus erat viverra. In hac habitasse platea dictumst. Mauris rutrum dolor eget laoreet commodo. Quisque porttitor erat felis, vitae maximus ex vehicula sit amet. Suspendisse ut tellus urna. Sed quis laoreet turpis. Maecenas lobortis nibh eget lectus tincidunt, in vehicula nulla pretium.  "})}),F.jsx(OE,{children:F.jsxs("h3",{children:["EVALUATION DATE | ",e]})})]})})},kee=pe.div`
+`,xee=({progress:e})=>F.jsxs(yr,{title:"VISION PERFORMANCE",titleDirection:"right",rounded:!0,dPadding:"2px 10px",children:[F.jsxs(ku,{children:[F.jsx(Cu,{children:"Peripheral vision"}),F.jsxs(Pu,{children:[F.jsxs(Eu,{children:[e.periferica,"%"]}),F.jsx(Ou,{progress:e.periferica})]})]}),F.jsxs(ku,{children:[F.jsx(Cu,{children:"Ocular endurance"}),F.jsxs(Pu,{children:[F.jsxs(Eu,{children:[e.resistencia,"%"]}),F.jsx(Ou,{progress:e.resistencia})]})]}),F.jsxs(ku,{children:[F.jsx(Cu,{children:"Compensatory head movement"}),F.jsxs(Pu,{children:[F.jsxs(Eu,{children:[e.compensation,"%"]}),F.jsx(Ou,{progress:e.compensation})]})]}),F.jsxs(ku,{notbordered:"true",children:[F.jsx(Cu,{children:"Saccades"}),F.jsxs(Pu,{children:[F.jsxs(Eu,{children:[e.sacadios,"%"]}),F.jsx(Ou,{progress:e.sacadios})]})]})]}),bee=()=>{const e=PE();return F.jsx(Pd,{children:F.jsxs(gee,{children:[F.jsx(pee,{id:Te.id,firstName:Te.firstName,lastName:Te.lastName}),F.jsxs(Zp,{children:[F.jsx(mJ,{ranking:Te.home.ranking}),F.jsx(xee,{progress:Te.home.visionPerformance})]}),F.jsxs(Zp,{children:[F.jsx(bM,{radioValue:Te.home.asimetriaFuncional}),F.jsx(KQ,{needleData:Te.home.decisionBajoPresion})]}),F.jsx(Zp,{children:F.jsx($x,{title:"RESULT INTERPRETATION",textL:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin quis tellus in facilisis. Aenean aliquet hendrerit felis, sagittis pulvinar augue ullamcorper ut. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec varius felis. Nulla sapien neque, ullamcorper eu suscipit eu, condimentum eget ligula.  ",textR:"Mauris id vulputate urna. Praesent rhoncus velit a quam scelerisque, et maximus erat viverra. In hac habitasse platea dictumst. Mauris rutrum dolor eget laoreet commodo. Quisque porttitor erat felis, vitae maximus ex vehicula sit amet. Suspendisse ut tellus urna. Sed quis laoreet turpis. Maecenas lobortis nibh eget lectus tincidunt, in vehicula nulla pretium.  "})}),F.jsx(OE,{children:F.jsxs("h3",{children:["EVALUATION DATE | ",e]})})]})})},wee=pe.div`
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -1561,16 +1597,21 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   padding-top: 120px;
   min-height: 100%;
   width: 750px;
-`,Cee=pe.div`
+`,See=pe.div`
   margin-top: 20px;
   display: flex;
   justify-content: space-between;
-`,Pee=pe.div`
+  
+`,Aee=pe.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   width: 260px;
-`,Oee=()=>F.jsx(Pd,{children:F.jsxs(kee,{children:[F.jsx(jx,{upTitle:"VISION PERFORMANCE",title:"OCULAR ENDURANCE",text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin quis tellus in facilisis. Aenean aliquet hendrerit felis, sagittis pulvinar augue ullamcorper ut. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec varius felis."}),F.jsxs(Cee,{children:[F.jsx(tJ,{radioValue:Te.resistenciaOcular.blinkDuration}),F.jsx(aJ,{}),F.jsxs(Pee,{children:[F.jsx(yr,{title:"RESULT",children:F.jsx(Lx,{subtitle:"LEVEL 1",progress:Te.resistenciaOcular.resultado})}),F.jsx(bE,{chartValue:Te.resistenciaOcular.blinkingBlindness})]})]}),F.jsx($x,{title:"INTERPRETACION DE RESULTADO",textL:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin quis tellus in facilisis. Aenean aliquet hendrerit felis, sagittis pulvinar augue ullamcorper ut. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec varius felis. Mauris rutrum dolor",textR:"eget laoreet commodo. Quisque porttitor erat felis, vitae maximus ex vehicula sit amet. Suspendisse ut tellus urna. Sed quis laoreet turpis. Maecenas lobortis nibh eget lectus tincidunt, in vehicula nulla pretium. Sed venenatis accumsan sagittis."}),F.jsx(wE,{progress:Te.resistenciaOcular.headCompensation.percentage,progressNivel:Te.resistenciaOcular.headCompensation.nivel,stackValue1:Te.resistenciaOcular.headCompensation.stackValue1,stackColor1:Te.resistenciaOcular.headCompensation.stackColor1,stackValue2:Te.resistenciaOcular.headCompensation.stackValue2,stackColor2:Te.resistenciaOcular.headCompensation.stackColor2,stackValue3:Te.resistenciaOcular.headCompensation.stackValue3,stackColor3:Te.resistenciaOcular.headCompensation.stackColor3,stackValue4:Te.resistenciaOcular.headCompensation.stackValue4,stackColor4:Te.resistenciaOcular.headCompensation.stackColor4,stackValue5:Te.resistenciaOcular.headCompensation.stackValue5,stackColor5:Te.resistenciaOcular.headCompensation.stackColor5,stackValue6:Te.resistenciaOcular.headCompensation.stackValue6,stackColor6:Te.resistenciaOcular.headCompensation.stackColor6})]})}),Eee=pe.div`
+  @media (max-width: 765px) {
+    flex-direction: column;
+    gap: 12px;
+  }
+`,kee=()=>F.jsx(Pd,{children:F.jsxs(wee,{children:[F.jsx(jx,{upTitle:"VISION PERFORMANCE",title:"OCULAR ENDURANCE",text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin quis tellus in facilisis. Aenean aliquet hendrerit felis, sagittis pulvinar augue ullamcorper ut. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec varius felis."}),F.jsxs(See,{children:[F.jsx(eJ,{radioValue:Te.resistenciaOcular.blinkDuration}),F.jsx(iJ,{}),F.jsxs(Aee,{children:[F.jsx(yr,{title:"RESULT",children:F.jsx(Lx,{subtitle:"LEVEL 1",progress:Te.resistenciaOcular.resultado})}),F.jsx(bE,{chartValue:Te.resistenciaOcular.blinkingBlindness})]})]}),F.jsx($x,{title:"INTERPRETACION DE RESULTADO",textL:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin quis tellus in facilisis. Aenean aliquet hendrerit felis, sagittis pulvinar augue ullamcorper ut. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec varius felis. Mauris rutrum dolor",textR:"eget laoreet commodo. Quisque porttitor erat felis, vitae maximus ex vehicula sit amet. Suspendisse ut tellus urna. Sed quis laoreet turpis. Maecenas lobortis nibh eget lectus tincidunt, in vehicula nulla pretium. Sed venenatis accumsan sagittis."}),F.jsx(wE,{progress:Te.resistenciaOcular.headCompensation.percentage,progressNivel:Te.resistenciaOcular.headCompensation.nivel,stackValue1:Te.resistenciaOcular.headCompensation.stackValue1,stackColor1:Te.resistenciaOcular.headCompensation.stackColor1,stackValue2:Te.resistenciaOcular.headCompensation.stackValue2,stackColor2:Te.resistenciaOcular.headCompensation.stackColor2,stackValue3:Te.resistenciaOcular.headCompensation.stackValue3,stackColor3:Te.resistenciaOcular.headCompensation.stackColor3,stackValue4:Te.resistenciaOcular.headCompensation.stackValue4,stackColor4:Te.resistenciaOcular.headCompensation.stackColor4,stackValue5:Te.resistenciaOcular.headCompensation.stackValue5,stackColor5:Te.resistenciaOcular.headCompensation.stackColor5,stackValue6:Te.resistenciaOcular.headCompensation.stackValue6,stackColor6:Te.resistenciaOcular.headCompensation.stackColor6})]})}),Cee=pe.div`
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -1578,19 +1619,24 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   padding-top: 120px;
   min-height: 100%;
   width: 750px;
-`,_ee=pe.div`
+`,Pee=pe.div`
   margin-top: 20px;
   display: flex;
   justify-content: space-between;
-`,Tee=pe.div`
+  @media (max-width: 765px) {
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+  }
+`,Oee=pe.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   width: 250px;
-`,Iee=pe.img`
+`,Eee=pe.img`
   height: 200px;
   margin-top: -6px;
-`,Mee=()=>F.jsx(Pd,{children:F.jsxs(Eee,{children:[F.jsx(jx,{upTitle:"VISION PERFORMANCE",title:"PERIPHERAL VISION",text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin quis tellus in facilisis. Aenean aliquet hendrerit felis, sagittis pulvinar augue ullamcorper ut. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec varius felis. Nulla sapien neque, ullamcorper eu suscipit eu, condimentum eget ligula."}),F.jsxs(_ee,{children:[F.jsx(VQ,{}),F.jsxs(Tee,{children:[F.jsx(yr,{title:"RESULT",contwidth:"100px",titleDirection:"right",children:F.jsx(Lx,{subtitle:"LEVEL 1",progress:Te.visionPeriferica.resultado1})}),F.jsx(bE,{chartValue:Te.visionPeriferica.blinkingBlindness})]})]}),F.jsx($x,{title:"RESULTS INTERPRETATION",textL:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin quis tellus in facilisis. Aenean aliquet hendrerit felis, sagittis pulvinar augue ullamcorper ut. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec varius felis. Nulla sapien neque, ullamcorper eu suscipit eu, condimentum eget ligula. Mauris id vulputate urna. Praesent rhoncus velit a quam scelerisque, et maximus erat viverra. In hac habitasse platea dictumst. In hac habitasse platea dictumst. In hac habitasse platea dictumst.",children:F.jsx(Iee,{src:NQ})}),F.jsx(wE,{progress:Te.visionPeriferica.headCompensation.percentage,progressNivel:Te.visionPeriferica.headCompensation.nivel,stackValue1:Te.visionPeriferica.headCompensation.stackValue1,stackColor1:Te.visionPeriferica.headCompensation.stackColor1,stackValue2:Te.visionPeriferica.headCompensation.stackValue2,stackColor2:Te.visionPeriferica.headCompensation.stackColor2,stackValue3:Te.visionPeriferica.headCompensation.stackValue3,stackColor3:Te.visionPeriferica.headCompensation.stackColor3,stackValue4:Te.visionPeriferica.headCompensation.stackValue4,stackColor4:Te.visionPeriferica.headCompensation.stackColor4,stackValue5:Te.visionPeriferica.headCompensation.stackValue5,stackColor5:Te.visionPeriferica.headCompensation.stackColor5,stackValue6:Te.visionPeriferica.headCompensation.stackValue6,stackColor6:Te.visionPeriferica.headCompensation.stackColor6})]})}),Lee=yM`
+`,_ee=()=>F.jsx(Pd,{children:F.jsxs(Cee,{children:[F.jsx(jx,{upTitle:"VISION PERFORMANCE",title:"PERIPHERAL VISION",text:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin quis tellus in facilisis. Aenean aliquet hendrerit felis, sagittis pulvinar augue ullamcorper ut. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec varius felis. Nulla sapien neque, ullamcorper eu suscipit eu, condimentum eget ligula."}),F.jsxs(Pee,{children:[F.jsx(YQ,{}),F.jsxs(Oee,{children:[F.jsx(yr,{title:"RESULT",contwidth:"100px",titleDirection:"right",children:F.jsx(Lx,{subtitle:"LEVEL 1",progress:Te.visionPeriferica.resultado1})}),F.jsx(bE,{chartValue:Te.visionPeriferica.blinkingBlindness})]})]}),F.jsx($x,{title:"RESULTS INTERPRETATION",textL:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sollicitudin quis tellus in facilisis. Aenean aliquet hendrerit felis, sagittis pulvinar augue ullamcorper ut. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec varius felis. Nulla sapien neque, ullamcorper eu suscipit eu, condimentum eget ligula. Mauris id vulputate urna. Praesent rhoncus velit a quam scelerisque, et maximus erat viverra. In hac habitasse platea dictumst. In hac habitasse platea dictumst. In hac habitasse platea dictumst.",children:F.jsx(Eee,{src:NQ})}),F.jsx(wE,{progress:Te.visionPeriferica.headCompensation.percentage,progressNivel:Te.visionPeriferica.headCompensation.nivel,stackValue1:Te.visionPeriferica.headCompensation.stackValue1,stackColor1:Te.visionPeriferica.headCompensation.stackColor1,stackValue2:Te.visionPeriferica.headCompensation.stackValue2,stackColor2:Te.visionPeriferica.headCompensation.stackColor2,stackValue3:Te.visionPeriferica.headCompensation.stackValue3,stackColor3:Te.visionPeriferica.headCompensation.stackColor3,stackValue4:Te.visionPeriferica.headCompensation.stackValue4,stackColor4:Te.visionPeriferica.headCompensation.stackColor4,stackValue5:Te.visionPeriferica.headCompensation.stackValue5,stackColor5:Te.visionPeriferica.headCompensation.stackColor5,stackValue6:Te.visionPeriferica.headCompensation.stackValue6,stackColor6:Te.visionPeriferica.headCompensation.stackColor6})]})}),Tee=yM`
 *{
     margin: 0;
     padding: 0;
@@ -1598,7 +1644,12 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
 
 #root{
     height: 100vh;
+    width: 100vw;
   font-family: Open-Sans, Helvetica, Sans-Serif;
+
+  /* @media (max-width: 850px) {
+    width: auto;
+  } */
   
 }
 
@@ -1609,6 +1660,7 @@ html{
 
 body {
   /* overflow-x: hidden; */
-  min-height: 100%;}
+  min-height: 100%;
+  width: fit-content;
   font-family: Open-Sans, Helvetica, Sans-Serif;
-`;function jee(){return F.jsxs(F.Fragment,{children:[F.jsx(Lee,{}),F.jsx(Aee,{}),F.jsx(Mee,{}),F.jsx(Oee,{}),F.jsx(wee,{})]})}Qp.createRoot(document.getElementById("root")).render(F.jsx(Z.StrictMode,{children:F.jsx(jee,{})}));
+}`;function Iee(){return F.jsxs(F.Fragment,{children:[F.jsx(Tee,{}),F.jsx(bee,{}),F.jsx(_ee,{}),F.jsx(kee,{}),F.jsx(yee,{})]})}Qp.createRoot(document.getElementById("root")).render(F.jsx(Z.StrictMode,{children:F.jsx(Iee,{})}));
